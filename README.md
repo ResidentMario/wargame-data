@@ -55,7 +55,8 @@ release; pick one and click through to it.
 4. Open `Command Prompt`, navigate to the directory containing the files in question (e.g. `cd
 C:\Steam\steamapps\common\Wargame Red Dragon\Data\WARGAME\PC\510049986`).
 5. Run the following commands:
-    ```
+
+
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TAmmunition
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMountedWeaponDescriptor
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretUnitDescriptor
@@ -64,7 +65,8 @@ C:\Steam\steamapps\common\Wargame Red Dragon\Data\WARGAME\PC\510049986`).
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretBombardierDescriptor
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TWeaponManagerModuleDescriptor
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModuleSelector
-    ```
+
+
 6. You will now have a subdirectory called `NDF_Win` in your folder, containing all of the raws. Cut-paste that to
 wherever appropriate&mdash;in our case, as a subfolder of the version number under `raws` in this repository.
 
