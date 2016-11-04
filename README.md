@@ -54,9 +54,18 @@ release; pick one and click through to it.
 3. Unzip Data Exporter into the folder.
 4. Open `Command Prompt`, navigate to the directory containing the files in question (e.g. `cd
 C:\Steam\steamapps\common\Wargame Red Dragon\Data\WARGAME\PC\510049986`).
-5. Run the following command:
-    `WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin
-    TAmmunition|TMountedWeaponDescriptor|TTurretUnitDescriptor|TTurretTwoAxisDescriptor|TTurretInfanterieDescriptor
-    |TTurretBombardierDescriptor|TWeaponManagerModuleDescriptor`.
+5. Run the following commands:
+    ```
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TAmmunition
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMountedWeaponDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretUnitDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretTwoAxisDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretInfanterieDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretBombardierDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TWeaponManagerModuleDescriptor
+    ```
 6. You will now have a subdirectory called `NDF_Win` in your folder, containing all of the raws. Cut-paste that to
 wherever appropriate&mdash;in our case, as a subfolder of the version number under `raws` in this repository.
+
+Currently the first, second, and most recent raws are available under `raws`. More forthcoming after I get merge
+working.
