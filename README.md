@@ -34,11 +34,7 @@ A second-order tool, built on top of this bedrock one, is the [Data Exporter](ht
 This tool packages the Modding Suite into a command line tool for extracting specific tables from the game files.
 
 This would be enough in and of itself, but the information we're interested in isn't exposed in top-level tables;
-it's instead packed into a descending chain of containers, called "modules". Every unit is a
-`TUniteAuSolDescription` instance containing, amongst other things, a `TWeaponManagerModuleDescriptor`. Weapons in
-Wargame are organized in terms of "turrets", which controls a weapon's spatial variables. This the weapons manager
-module contains a list of `TTurrretUnitDescriptor`, a list of turrets, each of which itself
-contains `TMoundedWeaponDescriptor` objects, each of which references a `TAmmunition` instance.
+it's instead packed into a descending chain of containers, called "modules".
 
 So to get a good, clean, well-formatted dataset, we need to export all of these tables, remap them to one another
 out-of-binary, and then stitch their variables together.
@@ -72,9 +68,33 @@ C:\Steam\steamapps\common\Wargame Red Dragon\Data\WARGAME\PC\510049986`).
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModernWarfareDamageModuleDescriptor
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin VisibilityModuleDescriptor
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModernWarfareExperienceModuleDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModernWarfareCommmonDamageDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TBlindageProperties
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TArmorDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TUniteDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMouvementHandler_GuidedMissileDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TScannerConfigurationDescriptor
 
 6. You will now have a subdirectory called `NDF_Win` in your folder, containing all of the raws. Cut-paste that to
 wherever appropriate&mdash;in our case, as a subfolder of the version number under `raws` in this repository.
 
-Currently only the most recent raw is available under `raws`. More forthcoming after I get merge
-working.
+#### Automated Process
+
+To-do.
+
+#### Status
+Currently the most recent raw, `510049986`, is available under `raws`.
+
+### Datasetification
+
+#### Manual Process
+
+This is done by running the `data-munge` Jupyter notebook in `notebooks/`.
+
+#### Automatic Process
+
+To-do.
+
+#### Status
+
+WIP.
