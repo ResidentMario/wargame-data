@@ -65,7 +65,13 @@ C:\Steam\steamapps\common\Wargame Red Dragon\Data\WARGAME\PC\510049986`).
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretBombardierDescriptor
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TWeaponManagerModuleDescriptor
     WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModuleSelector
-
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TFuelModuleDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMouvementHandlerLandVehicleDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMouvementHandlerHelicopterDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMouvementHandlerAirplaneDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModernWarfareDamageModuleDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin VisibilityModuleDescriptor
+    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModernWarfareExperienceModuleDescriptor
 
 6. You will now have a subdirectory called `NDF_Win` in your folder, containing all of the raws. Cut-paste that to
 wherever appropriate&mdash;in our case, as a subfolder of the version number under `raws` in this repository.
