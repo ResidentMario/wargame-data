@@ -29,5 +29,5 @@ for table in tqdm(["TAmmunition", "TMountedWeaponDescriptor", "TTurretUnitDescri
     ]
     subprocess.run(comm, shell=True)
 import pdb; pdb.set_trace()
-subprocess.run(["move", "NDF_Win", "../data/{0}".format(parser.parse_args().version)], shell=True)
+subprocess.run(["move", "NDF_Win", "../raws/{0}".format(parser.parse_args().version)], shell=True)
 # TODO: Export ZZ_Win.dat?

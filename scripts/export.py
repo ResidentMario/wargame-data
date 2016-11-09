@@ -49,7 +49,6 @@ def serialize_unit(unit):
     return srs
 
 
-
 def main():
     fullpath = "{0}/{1}/{2}".format(parser.parse_args().path, parser.parse_args().version,
                                     "NDF_Win/pc/ndf/patchable/gfx").replace("/", "\\")

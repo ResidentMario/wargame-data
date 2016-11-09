@@ -78,6 +78,8 @@ C:\Steam\steamapps\common\Wargame Red Dragon\Data\WARGAME\PC\510049986`).
 6. You will now have a subdirectory called `NDF_Win` in your folder, containing all of the raws. Cut-paste that to
 wherever appropriate&mdash;in our case, as a subfolder of the version number under `raws` in this repository.
 
+7. Add instructions on getting `Unites.dic`...
+
 #### Automated Process
 
 To-do.
