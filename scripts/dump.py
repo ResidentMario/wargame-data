@@ -19,14 +19,16 @@ parser.add_argument("version", default="Everything", help="The patch version of 
 # Pull the tables. This is a lengthy process, but relatively straightforward: execute the proper WGTableExporter on
 # each of the tables in interest in the given Wargame version.
 # TODO: There will likely be more tables of interest.
-for table in tqdm(["TAmmunition", "TMountedWeaponDescriptor", "TTurretUnitDescriptor", "TTurretTwoAxisDescriptor",
+for table in tqdm(["TUniteAuSolDescriptor",
+                   "TAmmunition", "TMountedWeaponDescriptor", "TTurretUnitDescriptor", "TTurretTwoAxisDescriptor",
                    "TTurretInfanterieDescriptor", "TTurretBombardierDescriptor", "TWeaponManagerModuleDescriptor",
                    "TModuleSelector", "TFuelModuleDescriptor", "TMouvementHandlerLandVehicleDescriptor",
                    "TMouvementHandlerHelicopterDescriptor", "TMouvementHandlerAirplaneDescriptor",
                    "TModernWarfareDamageModuleDescriptor", "VisibilityModuleDescriptor",
                    "TModernWarfareExperienceModuleDescriptor", "TModernWarfareCommmonDamageDescriptor",
                    "TBlindageProperties", "TArmorDescriptor", "TUniteDescriptor",
-                   "TMouvementHandler_GuidedMissileDescriptor", "TScannerConfigurationDescriptor"]):
+                   "TMouvementHandler_GuidedMissileDescriptor", "TScannerConfigurationDescriptor",
+                   "TVisibilityModuleDescriptor"]):
     comm = [
         '{0}'.format(parser.parse_args().exporter),
         '{0}/{1}/NDF_Win.dat'.format(parser.parse_args().wargame, parser.parse_args().version).replace("\\", "/"),
