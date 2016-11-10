@@ -1,6 +1,7 @@
 import argparse
 import subprocess
 from tqdm import tqdm
+import pandas as pd
 import os
 
 parser = argparse.ArgumentParser(description="""
@@ -14,17 +15,18 @@ parser.add_argument("version", default="Everything", help="The patch version of 
                                                           "the data from. By default, export everything.",
                     nargs='?')
 
+
 # Pull the tables. This is a lengthy process, but relatively straightforward: execute the proper WGTableExporter on
 # each of the tables in interest in the given Wargame version.
 # TODO: There will likely be more tables of interest.
 for table in tqdm(["TAmmunition", "TMountedWeaponDescriptor", "TTurretUnitDescriptor", "TTurretTwoAxisDescriptor",
-              "TTurretInfanterieDescriptor", "TTurretBombardierDescriptor", "TWeaponManagerModuleDescriptor",
-              "TModuleSelector", "TFuelModuleDescriptor", "TMouvementHandlerLandVehicleDescriptor",
-              "TMouvementHandlerHelicopterDescriptor", "TMouvementHandlerAirplaneDescriptor",
-              "TModernWarfareDamageModuleDescriptor", "VisibilityModuleDescriptor",
-              "TModernWarfareExperienceModuleDescriptor", "TModernWarfareCommmonDamageDescriptor",
-              "TBlindageProperties", "TArmorDescriptor", "TUniteDescriptor",
-              "TMouvementHandler_GuidedMissileDescriptor", "TScannerConfigurationDescriptor"]):
+                   "TTurretInfanterieDescriptor", "TTurretBombardierDescriptor", "TWeaponManagerModuleDescriptor",
+                   "TModuleSelector", "TFuelModuleDescriptor", "TMouvementHandlerLandVehicleDescriptor",
+                   "TMouvementHandlerHelicopterDescriptor", "TMouvementHandlerAirplaneDescriptor",
+                   "TModernWarfareDamageModuleDescriptor", "VisibilityModuleDescriptor",
+                   "TModernWarfareExperienceModuleDescriptor", "TModernWarfareCommmonDamageDescriptor",
+                   "TBlindageProperties", "TArmorDescriptor", "TUniteDescriptor",
+                   "TMouvementHandler_GuidedMissileDescriptor", "TScannerConfigurationDescriptor"]):
     comm = [
         '{0}'.format(parser.parse_args().exporter),
         '{0}/{1}/NDF_Win.dat'.format(parser.parse_args().wargame, parser.parse_args().version).replace("\\", "/"),
@@ -33,6 +35,7 @@ for table in tqdm(["TAmmunition", "TMountedWeaponDescriptor", "TTurretUnitDescri
     ]
     subprocess.run(comm, shell=True)
 subprocess.run(["move", "NDF_Win", "../raws/{0}".format(parser.parse_args().version)], shell=True)
+
 
 # Pull the units dictionary.
 # To do so we first have to find the most recent ZZ_Win.dat file. ZZ_Win.dat is the file which contains many of the
@@ -61,11 +64,21 @@ while True:
                                                  version).replace("\\", "/")
         comm = ['{0}'.format(parser.parse_args().exporter), zz_win, r"pc\localisation\us\localisation\unites.dic"]
         subprocess.run(comm, shell=True)
-        import pdb; pdb.set_trace()
         if "ZZ_Win" in os.listdir("."):
             break
         else:
             i -= 1
     else:
         i -= 1
+
+
+# The exporter doesn't quite handle exporting this dictionary data correctly, because it doesn't escape the comma ",
+# " character, which appears in weapon descriptions and whatever else. So before we let go we have to even further
+# and clean it up.
+locs = pd.read_csv("ZZ_Win/pc/localisation/us/localisation/unites.csv",
+                   usecols=[0, 1],
+                   header=None,
+                   names=["Hash", "String"])
+locs["String"] = locs.apply(lambda srs: srs["String"].strip(), axis='columns')
+locs.to_csv("ZZ_Win/pc/localisation/us/localisation/unites_fixed.csv")
 subprocess.run(["move", "ZZ_Win", "../raws/{0}".format(parser.parse_args().version)], shell=True)
