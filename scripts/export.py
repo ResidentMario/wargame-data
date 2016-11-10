@@ -44,8 +44,12 @@ def get_collection(table, attr):
 
 def serialize_unit(unit):
     srs = pd.Series()
-    srs["ClassNameForDebug"] = get_attribute(unit, "ClassNameForDebug")
-    srs["ProductionPrice"] = get_collection(unit, "ProductionPrice")
+    for attribute in ["_ShortDatabaseName", "ClassNameForDebug", "StickToGround", "ManageUnitOrientation",
+                      "HotRollSizeModifier", "IconeType", "PositionInMenu", "AliasName", "Category", "AknowUnitType",
+                      "TypeForAcknow", "Nationalite", "MotherCountry", "ProductionYear", "MaxPacks", "Factory",
+                      "ProductionTime", "CoutEtoile", "UnitMovingType", "VitesseCombat", "UpgradeRequire",
+                      "IsPrototype", "Key", "HitRollECMModifier"]:
+        srs[attribute] = get_attribute(unit, attribute)
     return srs
 
 
@@ -57,10 +61,9 @@ def main():
         for name in files:
             xmlpaths[name] = etree.parse(os.path.join(root, name))
 
-    localizationpath = "{0}/{1}/{2}".format(parser.parse_args().path, parser.parse_args().version,
-                                     "ZZ_Win/pc/localisation/us/localisation/unites.csv").replace("/", "\\")
-    import pdb; pdb.set_trace()
-    localization = pd.read_csv(localizationpath, encoding='utf-8')
+    # localizationpath = "{0}/{1}/{2}".format(parser.parse_args().path, parser.parse_args().version,
+    #                                  "ZZ_Win/pc/localisation/us/localisation/unites.csv").replace("/", "\\")
+    # localization = pd.read_csv(localizationpath, encoding='utf-8')
     data = []
 
     units = xmlpaths['TUniteAuSolDescriptor.xml'].findall("TUniteAuSolDescriptor")
