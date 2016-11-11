@@ -19,7 +19,25 @@ There are hundreds of units like this one, and balancing real time strategy game
 in examining interactions between different units in the game. To that effect, this project aims to provide a
 reproducible export of the "true" Wargame: Red Dragon (henceforth RD) unit values for the purposes of examination.
 
-## Process
+## Contents
+
+The `/data` folder contains all of the `CSV` dataset exports. **These are of primary interest**.
+
+The datasets are organized by game version. Each game version corresponds with a patch to the game, and the higher
+the patch number the more recent the game version (right up to the current one). A patch log history is [available in
+ the forums](http://forums.eugensystems.com/viewtopic.php?f=155&t=57546).
+
+The `/raws` folder contains the corresponding raw XML files, `/scripts` contains the scripts used as part of the
+build process (detailed below), and `/figures` and `/notebooks` contain assorted support files.
+
+Each folder contains a `raw_data.csv` file, which contains everything you need. However, note that since this
+dataset is an uncompressed word-for-word copy of the game's gut internals, this dataset is *extremely*
+verbose. It will only make sense if you have a deep understanding of the game's internals. A data dictionary is
+provided in the form of the [Wargame Internal Values Manual](https://github.com/ResidentMario/wargame/blob/master/Wargame_Internal_Values_Manual.pdf).
+
+Work on simplifying the dataset into another, still flatter file is ongoing.
+
+## Build Process
 ### Overview
 
 RD has an [active modding community](http://forums.eugensystems.com/viewforum.php?f=187) (as did its predecessor in
@@ -39,64 +57,49 @@ it's instead packed into a descending chain of containers, called "modules".
 So to get a good, clean, well-formatted dataset, we need to export all of these tables, remap them to one another
 out-of-binary, and then stitch their variables together.
 
-### Getting the Raws
+### Step 1: Export the Raw Data
 
-#### Manual Process
+To export the raw data for a version of choice of Wargame: Red Dragon, first download Power Crystal's
+[XML Data Exporter](http://forums.eugensystems.com/viewtopic.php?f=187&t=57927&hilit=XML+Exporter). Make sure you
+have [Python 3.5](https://www.python.org/downloads/release/python-350/) or later installed, and that the copy of the
+Wargame Modding Suite that comes with the data exporter is properly configured.
 
-1. Download the [Data Exporter](http://forums.eugensystems.com/viewtopic.php?f=187&t=57927&sid=3be76da66f1adb0d5a78b97d9f2f0d94).
-2. Navigate to the Wargame version files folder (usually e.g. `C:\Steam\steamapps\common\Wargame Red
-Dragon\Data\WARGAME\PC`). Each of the subfolders of this directory is the files for a version of the game since
-release; pick one and click through to it.
-3. Unzip Data Exporter into the folder.
-4. Open `Command Prompt`, navigate to the directory containing the files in question (e.g. `cd
-C:\Steam\steamapps\common\Wargame Red Dragon\Data\WARGAME\PC\510049986`).
-5. Run the following commands:
+Either [clone this repository](https://git-scm.com/docs/git-clone) or copy and save
+[`dump.py`](https://github.com/ResidentMario/wargame-data/blob/master/scripts/dump.py) somewhere
+convenient. Open `Command Prompt` and navigate there. Then, run the following command:
 
+    python export.py UTILITY VERSION OUTPUT
 
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TAmmunition
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMountedWeaponDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretUnitDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretTwoAxisDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretInfanterieDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TTurretBombardierDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TWeaponManagerModuleDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModuleSelector
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TFuelModuleDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMouvementHandlerLandVehicleDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMouvementHandlerHelicopterDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMouvementHandlerAirplaneDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModernWarfareDamageModuleDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin VisibilityModuleDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModernWarfareExperienceModuleDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TModernWarfareCommmonDamageDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TBlindageProperties
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TArmorDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TUniteDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TMouvementHandler_GuidedMissileDescriptor
-    WGTableExporter.exe NDF_Win.dat pc\ndf\patchable\gfx\everything.ndfbin TScannerConfigurationDescriptor
+Replace `UTILITY` with the path to your copy of the Data Exporter's `WGTableExporter.exe` (e.g.
+`C:/Users/WargamerGuy/Desktop/tableexporter/WGTableExporter.exe`).
 
-6. You will now have a subdirectory called `NDF_Win` in your folder, containing all of the raws. Cut-paste that to
-wherever appropriate&mdash;in our case, as a subfolder of the version number under `raws` in this repository.
+Replace `VERSION` with the (numbered) version of the game whose data you want to export (e.g. `510049986`). The list
+of all versions of the game you have locally should be located in your Steam files, e.g.
+`E:\Steam\steamapps\common\Wargame Red Dragon\Data\WARGAME\PC`). The higher the number, the more recent the version,
+right up to the current one.
 
-7. Add instructions on getting `Unites.dic`...
+Replace `OUTPUT` with the path of a folder that you want to write the data to (e.g. to save it to `Desktop` you would
+ need something along the lines of `C:\Users\WargamerGuy\Desktop`).
 
-#### Automated Process
+What this will do: if you do all of this successfully, after a minute or two extracting the files you should have a
+folder named for the version of the game you exported containing XML and CSV files constituting the game's unit data.
 
-To-do.
+### Step 2: Datasetification
 
-#### Status
-Currently the most recent raw, `510049986`, is available under `raws`.
+The raw XML output (clumsily) preserves all of the structure of the game's internal data. In order to make that
+useful we have to flatten it&mdash;what I am here calling "Datasetification".
 
-### Datasetification
+To do this you need to run the
+[`export.py`](https://github.com/ResidentMario/wargame-data/blob/master/scripts/export.py) script. As before, run:
 
-#### Manual Process
+    python dump.py PATH VERSION OUTPUT
 
-This is done by running the `data-munge` Jupyter notebook in `notebooks/`.
+This time replace `PATH` to the folder containing the XML dumps you generated earlier, `VERSION` with the game
+version, and `OUTPUT` with, once again, the folder you want to save the result to.
 
-#### Automatic Process
+What this will do: after several minutes' processing time the folder you indicated should now contain a `CSV` file, e.g.
+`510049986/raw_data.csv`. This file contains the game's unit data, flattened into a convenient format. Rejoice!
 
-To-do.
+### Step 3: Simplification
 
-#### Status
-
-WIP.
+This still needs to be done.

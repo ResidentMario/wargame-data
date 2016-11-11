@@ -240,7 +240,7 @@ def serialize_unit(unit, xmlpaths, localization):
     weapon_manager = get_module(unit, "TWeaponManagerModuleDescriptor", xmlpaths)
     if weapon_manager is not None:
         for attr in ["SalvoIsMainSalvo", "Salves"]:
-            srs[attr] = get_attribute(weapon_manager, attr)
+            srs[attr] = get_collection(weapon_manager, attr)
         weapons = []
         for turret in get_object_reference_list(weapon_manager, "TurretDescriptorList", xmlpaths):
             turret_kind = turret.tag
@@ -278,7 +278,7 @@ def serialize_unit(unit, xmlpaths, localization):
                              "AffecteParNombre", "NeedModelChange", "IsFireAndForget", "IgnoreInflammabilityConditions",
                              "InterdireTirReflexe", "CorrectedShotDispersionMultiplier", "IsSubAmmunition",
                              "RandomDispersion", "TempsAnimation", "PorteeMaximaleProjectile",
-                             "PorteeMinimaleProjectile", "PorteeMinimaleHA"]:
+                             "PorteeMinimaleProjectile", "PorteeMinimaleHA", "Name", "TypeName", "TypeArme", "Caliber"]:
                     weapon_srs[attr] = get_attribute(ammo, attr)
                 acc = get_object_reference(ammo, "HitRollRule", xmlpaths)
                 for attr in ["MinimalHitProbability", "MinimalCritProbability", "HitProbability",
