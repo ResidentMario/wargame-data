@@ -218,7 +218,7 @@ def serialize_unit(unit, xmlpaths, localization):
     elif "Helicopter" in movement_kind:
         for attr in ["Maxspeed", "MaxAcceleration", "MaxDeceleration", "UnitMovingType", "CyclicManoeuvrability",
                      "GFactorLimit", "LateralSpeed", "Mass", "MaxInclination", "RotorArea", "TorqueManoeuvrability",
-                     "UpwardsSpeed", "TempsDemiTour"]:
+                     "UpwardSpeed", "TempsDemiTour"]:
             srs[attr] = get_attribute(movement, attr)
     elif "Airplane" in movement_kind:
         for attr in ["Maxspeed", "UnitMovingType", "FlyingAltitude", "MinimalAltitude", "GunMuzzleSpeed"]:
@@ -238,56 +238,59 @@ def serialize_unit(unit, xmlpaths, localization):
     # WEAPONS #
     ###########
     weapon_manager = get_module(unit, "TWeaponManagerModuleDescriptor", xmlpaths)
-    for attr in ["SalvoIsMainSalvo", "Salves"]:
-        srs[attr] = get_attribute(weapon_manager, attr)
-    weapons = []
-    for turret in get_object_reference_list(weapon_manager, "TurretDescriptorList", xmlpaths):
-        turret_kind = turret.tag
-        for weapon in get_object_reference_list(turret, "MountedWeaponDescriptorList", xmlpaths):
-            weapon_srs = pd.Series()
-            # First pick up all of the turret-level info for this weapon.
-            if "TwoAxis" in turret_kind:
-                for attr in ["Tag", "TagIndex", "VitesseRotation", "AngleRotationMax", "AngleRotationMaxPitch",
-                             "AngleRotationBasePitch", "AngleRotationMinPitch", "AngleRotationBase"]:
-                    weapon_srs[attr] = get_attribute(turret, attr)
-            elif "TurretUnit" in turret_kind:
-                for attr in ["Tag", "TagIndex", "AngleRotationMax", "AngleRotationMaxPitch",
-                             "AngleRotationMinPitch"]:
-                    weapon_srs[attr] = get_attribute(turret, attr)
-            elif "TurretBombardier" in turret_kind:
-                for attr in ["FlyingAltitude", "FlyingSpeed"]:
-                    weapon_srs[attr] = get_attribute(turret, attr)
-            elif "TurretInfanterie" in turret_kind:
-                pass  # No variables of interest.
-            # Then pick up the weapon-level variables.
-            for attr in ["SalvoStockIndex", "SalvoStockIndex_ForInterface", "TirEnMouvement", "TirContinu",
-                         "AnimateOnlyOneSoldier"]:
-                weapon_srs[attr] = attr
-            # The pick up the ammunition-level variables.
-            ammo = get_object_reference(weapon, "Ammunition", xmlpaths)
-            for attr in ["Arme", "ProjectileType", "Puissance", "TempsEntreDeuxTirs", "TempsEntreDeuxFx",
-                         "PorteeMaximale", "PorteeMaximaleBateaux", "AngleDispersion", "RadiusSplashSuppressDamages",
-                         "SuppressDamages", "RayonPinned", "TirIndirect", "TirReflexe", "TempsEntreDeuxSalves",
-                         "NbrProjectilesSimultanes", "NbTirParSalves", "AffichageMunitionParSalve", "Level",
-                         "FireDescriptor", "FireTriggeringProbability", "RadiusSplashPhysicalDamages",
-                         "PhysicalDamages", "WeaponCursorType", "PorteeMinimale", "PorteeMinimaleBateaux",
-                         "DispersionAtMinRange", "DispersionAtMaxRange", "NoiseDissimulationMalus", "TempsDeVisee",
-                         "AffichageMenu", "SupplyCost", "SmokeDescriptor", "PorteeMaximaleTBA", "PorteeMinimaleTBA",
-                         "PorteeMaximaleHA", "MissileTimeBetweenCorrections", "Guidance", "EfficaciteSelonPortee",
-                         "AffecteParNombre", "NeedModelChange", "IsFireAndForget", "IgnoreInflammabilityConditions",
-                         "InterdireTirReflexe", "CorrectedShotDispersionMultiplier", "IsSubAmmunition",
-                         "RandomDispersion", "TempsAnimation", "PorteeMaximaleProjectile",
-                         "PorteeMinimaleProjectile", "PorteeMinimaleHA"]:
-                weapon_srs[attr] = get_attribute(ammo, attr)
-            acc = get_object_reference(ammo, "HitRollRule", xmlpaths)
-            for attr in ["MinimalHitProbability", "MinimalCritProbability", "HitProbability",
-                         "HitProbabilityWhileMoving"]:
-                weapon_srs[attr] = get_attribute(acc, attr)
-            # Add the weapon to the list.
-            weapons.append(weapon_srs)
-        # Attach all of the weapons to the dataset!
+    if weapon_manager is not None:
+        for attr in ["SalvoIsMainSalvo", "Salves"]:
+            srs[attr] = get_attribute(weapon_manager, attr)
+        weapons = []
+        for turret in get_object_reference_list(weapon_manager, "TurretDescriptorList", xmlpaths):
+            turret_kind = turret.tag
+            for weapon in get_object_reference_list(turret, "MountedWeaponDescriptorList", xmlpaths):
+                weapon_srs = pd.Series()
+                # First pick up all of the turret-level info for this weapon.
+                if "TwoAxis" in turret_kind:
+                    for attr in ["Tag", "TagIndex", "VitesseRotation", "AngleRotationMax", "AngleRotationMaxPitch",
+                                 "AngleRotationBasePitch", "AngleRotationMinPitch", "AngleRotationBase"]:
+                        weapon_srs[attr] = get_attribute(turret, attr)
+                elif "TurretUnit" in turret_kind:
+                    for attr in ["Tag", "TagIndex", "AngleRotationMax", "AngleRotationMaxPitch",
+                                 "AngleRotationMinPitch"]:
+                        weapon_srs[attr] = get_attribute(turret, attr)
+                elif "TurretBombardier" in turret_kind:
+                    for attr in ["FlyingAltitude", "FlyingSpeed"]:
+                        weapon_srs[attr] = get_attribute(turret, attr)
+                elif "TurretInfanterie" in turret_kind:
+                    pass  # No variables of interest.
+                # Then pick up the weapon-level variables.
+                for attr in ["SalvoStockIndex", "SalvoStockIndex_ForInterface", "TirEnMouvement", "TirContinu",
+                             "AnimateOnlyOneSoldier"]:
+                    weapon_srs[attr] = attr
+                # The pick up the ammunition-level variables.
+                ammo = get_object_reference(weapon, "Ammunition", xmlpaths)
+                for attr in ["Arme", "ProjectileType", "Puissance", "TempsEntreDeuxTirs", "TempsEntreDeuxFx",
+                             "PorteeMaximale", "PorteeMaximaleBateaux", "AngleDispersion", "RadiusSplashSuppressDamages",
+                             "SuppressDamages", "RayonPinned", "TirIndirect", "TirReflexe", "TempsEntreDeuxSalves",
+                             "NbrProjectilesSimultanes", "NbTirParSalves", "AffichageMunitionParSalve", "Level",
+                             "FireDescriptor", "FireTriggeringProbability", "RadiusSplashPhysicalDamages",
+                             "PhysicalDamages", "WeaponCursorType", "PorteeMinimale", "PorteeMinimaleBateaux",
+                             "DispersionAtMinRange", "DispersionAtMaxRange", "NoiseDissimulationMalus", "TempsDeVisee",
+                             "AffichageMenu", "SupplyCost", "SmokeDescriptor", "PorteeMaximaleTBA", "PorteeMinimaleTBA",
+                             "PorteeMaximaleHA", "MissileTimeBetweenCorrections", "Guidance", "EfficaciteSelonPortee",
+                             "AffecteParNombre", "NeedModelChange", "IsFireAndForget", "IgnoreInflammabilityConditions",
+                             "InterdireTirReflexe", "CorrectedShotDispersionMultiplier", "IsSubAmmunition",
+                             "RandomDispersion", "TempsAnimation", "PorteeMaximaleProjectile",
+                             "PorteeMinimaleProjectile", "PorteeMinimaleHA"]:
+                    weapon_srs[attr] = get_attribute(ammo, attr)
+                acc = get_object_reference(ammo, "HitRollRule", xmlpaths)
+                for attr in ["MinimalHitProbability", "MinimalCritProbability", "HitProbability",
+                             "HitProbabilityWhileMoving"]:
+                    weapon_srs[attr] = get_attribute(acc, attr)
+                # Add the weapon to the list.
+                weapons.append(weapon_srs)
+            # Attach all of the weapons to the dataset!
         for i, weapon in enumerate(weapons, start=1):
-            weapons[i - 1].index = ["Weapon{0}{1}".format(i, attr) for attr in weapons[i - 1].index]
+            # import pdb; pdb.set_trace()
+            weapons[i - 1].index = ["Weapon{0}{1}".format(i, attr.replace("Weapon", ""))\
+                                    for attr in weapons[i - 1].index]
             # import pdb; pdb.set_trace()
             srs = srs.append(weapon)
 
@@ -333,14 +336,10 @@ def main():
                                      "ZZ_Win/pc/localisation/us/localisation/unites_fixed.csv").replace("/", "\\")
     # import pdb; pdb.set_trace()
     localization = pd.read_csv(localizationpath, encoding='windows-1252', index_col=0)
-    data = []
-
     units = xmlpaths['TUniteAuSolDescriptor.xml'].findall("TUniteAuSolDescriptor")
-    # test = list(units)[:25]
-    for unit in tqdm(units):
-        data.append(serialize_unit(unit, xmlpaths, localization))
-        df = pd.concat(data, axis=1).T
-        df.to_csv("../data/510049986/data_dummy.csv")
+    # test = list(units)[1360:1370]
+    df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(units)], axis=1).T
+    df.to_csv("../data/510049986/raw_data.csv")
 
 if __name__ == "__main__":
     main()
