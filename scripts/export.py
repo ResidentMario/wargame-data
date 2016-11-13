@@ -263,7 +263,7 @@ def serialize_unit(unit, xmlpaths, localization):
                 # Then pick up the weapon-level variables.
                 for attr in ["SalvoStockIndex", "SalvoStockIndex_ForInterface", "TirEnMouvement", "TirContinu",
                              "AnimateOnlyOneSoldier"]:
-                    weapon_srs[attr] = attr
+                    weapon_srs[attr] = get_attribute(weapon, attr)
                 # The pick up the ammunition-level variables.
                 ammo = get_object_reference(weapon, "Ammunition", xmlpaths)
                 for attr in ["Arme", "ProjectileType", "Puissance", "TempsEntreDeuxTirs", "TempsEntreDeuxFx",
