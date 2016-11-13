@@ -29,7 +29,9 @@ for table in tqdm(["TUniteAuSolDescriptor", "TTypeUnitModuleDescriptor", "TComma
                    "TBlindageProperties", "TArmorDescriptor", "TUniteDescriptor",
                    "TMouvementHandler_GuidedMissileDescriptor", "TScannerConfigurationDescriptor",
                    "TVisibilityModuleDescriptor", "TPositionModuleDescriptor", "TGroupeCombatModuleDescriptor",
-                   "TModernWarfareHitRollRule", "TModuleModernWarfareSupplyDescriptor"]):
+                   "TModernWarfareHitRollRule", "TModuleModernWarfareSupplyDescriptor",
+                   "TModernWarfareScannerModuleDescriptor", "TModernWarfareVisibilityRollRule",
+                   "TTransportableModuleDescriptor"]):
     comm = [
         '{0}'.format(parser.parse_args().exporter),
         '{0}/{1}/NDF_Win.dat'.format(parser.parse_args().wargame, parser.parse_args().version).replace("\\", "/"),

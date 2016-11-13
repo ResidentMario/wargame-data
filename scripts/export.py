@@ -2,9 +2,7 @@
 Command-line script which automates the exporting, munging, cleaning, and saving operations involved in generating
 the core dataset of interest in this project.
 """
-# TODO: Finish writing this.
 from lxml import etree
-# from itertools import zip_longest
 from tqdm import tqdm
 import pandas as pd
 import os
@@ -43,12 +41,17 @@ def get_collection(table, attr):
     return values
 
 
-def get_module(table, module_name, xmlpaths):
+def get_module(table, module_name, xmlpaths, map_name=None):
     """
     Given an XML element representing a table within everything.ndfbin and an attribute Module reference of interest,
     returns that module if it exists and None if it does not.
+
+    If the table element is listed with a map name matching a substring of itself (which happens in most cases),
+    this method can be called with mapname=None. However, if the module we want has some other map name---for
+    example, ModernWarfareScannerDescriptor is listed under just Scanner---pass what that map name is as mapname.
     """
-    map_name = module_name.replace("ModuleDescriptor", "")[1:]
+    if not map_name:
+        map_name = module_name.replace("ModuleDescriptor", "").replace("Descriptor", "")[1:]
     modules = [module.text for module in table.find("Modules")]
     try:
         selector_module_text = list(filter(lambda module: map_name in module, modules))[0]
@@ -59,7 +62,6 @@ def get_module(table, module_name, xmlpaths):
         pointer_kind = pointer_text.split(":")[-1].split(" ")[-1]
         module = xmlpaths['{0}.xml'.format(pointer_kind)]\
             .find("{0}[@id='{1}']".format(pointer_kind, pointer_id))
-        # import pdb; pdb.set_trace()
         return module
     except IndexError:
         return None
@@ -82,34 +84,12 @@ def get_object_reference(table, attr, xmlpaths):
     return module
 
 
-# TODO: Implement.
-def get_module_of_kind(table, module_name, kinds, xmlpaths):
-    """
-    This method is a modification of get_module which additionally takes a "kinds" parameter. The "kinds" corresponds
-    with a
-    """
-    map_name = module_name.replace("ModuleDescriptor", "")[1:]
-    modules = [module.text for module in table.find("Modules")]
-    try:
-        selector_module_text = list(filter(lambda module: map_name in module, modules))[0]
-        selector_module_id = selector_module_text.split(":")[-1].split(" ")[1]
-        selector = xmlpaths['TModuleSelector.xml'].find("TModuleSelector[@id='{0}']".format(selector_module_id))
-        pointer_text = selector.find("Default").text
-        pointer_id = pointer_text.split(":")[-1].split(" ")[1]
-        module = xmlpaths['{0}.xml'.format(module_name)]\
-            .find("{0}[@id='{1}']".format(module_name, pointer_id))
-        return module
-    except IndexError:
-        return None
-
-
 def get_object_reference_list(table, attr, xmlpaths):
     """
     Same as get_object_reference, but applies to a list of them.
     """
     objects = get_collection(table, attr)
     ret = []
-    # import pdb; pdb.set_trace()
     for object in objects:
         module_id = object.split(":")[-1].split(" ")[1]
         module_name = object.split(":")[-1].split(" ")[-1]
@@ -139,14 +119,13 @@ def serialize_unit(unit, xmlpaths, localization):
     # TOP-LEVEL ATTRIBUTES #
     ########################
     for attr in ["_ShortDatabaseName", "ClassNameForDebug", "StickToGround", "ManageUnitOrientation",
-                      "HitRollSizeModifier", "IconeType", "PositionInMenu", "AliasName", "Category", "AcknowUnitType",
-                      "TypeForAcknow", "Nationalite", "MotherCountry", "ProductionYear", "MaxPacks", "Factory",
-                      "ProductionTime", "CoutEtoile", "UnitMovingType", "VitesseCombat", "IsPrototype", "Key",
-                      "HitRollECMModifier"]:
+                 "HitRollSizeModifier", "IconeType", "PositionInMenu", "AliasName", "Category", "AcknowUnitType",
+                 "TypeForAcknow", "Nationalite", "MotherCountry", "ProductionYear", "MaxPacks", "Factory",
+                 "ProductionTime", "CoutEtoile", "UnitMovingType", "VitesseCombat", "IsPrototype", "Key",
+                 "HitRollECMModifier"]:
         srs[attr] = get_attribute(unit, attr)
     for attr in ["ProductionPrice", "MaxDeployableAmount", "ShowInMenu", "UnitTypeTokens"]:
         srs[attr] = get_collection(unit, attr)
-    # import pdb; pdb.set_trace()
     upgrade_path = get_object_reference(unit, "UpgradeRequire", xmlpaths)
     if upgrade_path is not None:
         srs["UpgradeRequired"] = get_id(upgrade_path)
@@ -181,7 +160,7 @@ def serialize_unit(unit, xmlpaths, localization):
     ##############
     # EXPERIENCE #
     ##############
-    experience = get_module(unit, "TModernWarfareExperienceModuleDescriptor", xmlpaths)
+    experience = get_module(unit, "TModernWarfareExperienceModuleDescriptor", xmlpaths, map_name="Experience")
     if experience is not None:
         for attr in ["CanWinExperience", "ExperienceGainBySecond", "KillExperienceBonus"]:
             srs[attr] = get_attribute(experience, attr)
@@ -193,10 +172,22 @@ def serialize_unit(unit, xmlpaths, localization):
     if command is not None:
         srs["IsCommandUnit"] = True
 
-    #
-    # SKIP: TScannerModuleDescriptor, TScannerConfigurationDescriptor
-    # TODO: ^^^.
-    #
+    ##########
+    # VISION #
+    ##########
+    scanner = get_module(unit, "TModernWarfareScannerModuleDescriptor", xmlpaths, map_name="Scanner :")
+    # The map_name parameter in this case is a bit tortured. This is because Scanner is a substring of
+    # ScannerConfiguration, and both are present if one or the other is, so to catch the former we have to add some
+    # of the surrounding formatting text.
+    if scanner is not None:
+        vis_roll_rule = get_object_reference(scanner, "VisibilityRollRule", xmlpaths)
+        srs["TimeBetweenEachIdentifyRoll"] = get_attribute(vis_roll_rule, "TimeBetweenEachIdentifyRoll")
+        srs["IdentifyBaseProbability"] = get_attribute(vis_roll_rule, "IdentifyBaseProbability")
+    scanner_c = get_module(unit, "TScannerConfigurationDescriptor", xmlpaths)
+    if scanner_c is not None:
+        for attr in ["DetectionTBA", "PorteeVision", "OpticalStrength", "OpticalStrengthAltitude", "PorteeVisionTBA",
+                     "OpticalStrengthAntiradar"]:
+            srs[attr] = get_attribute(scanner_c, attr)
 
     ########
     # FUEL #
@@ -225,6 +216,26 @@ def serialize_unit(unit, xmlpaths, localization):
             srs[attr] = get_attribute(movement, attr)
 
     # TODO: Transportable
+    #################
+    # TRANSPORTABLE #
+    #################
+    # # Transportable is a special case, because in the Modules list instead of linking by way of a ModuleSelector it
+    # # is placed in the table directly.
+    modules = [module.text for module in unit.find("Modules")]
+    try:
+        transportable_module_text = list(filter(lambda module: "Transportable" in module, modules))[0]
+        transportable_module_id = transportable_module_text.split(":")[-1].split(" ")[1]
+        transportable = xmlpaths['TTransportableModuleDescriptor.xml'].find("TTransportableModuleDescriptor[@id='{0}']"\
+            .format(transportable_module_id))
+        if transportable is not None:
+            srs["SuppressDamageRatioIfTransporterKilled"] = get_attribute(transportable,
+                                                                          "SuppressDamageRatioIfTransporterKilled")
+            # import pdb; pdb.set_trace()
+            spawns = get_object_reference_list(transportable, "TransportListAvailableForSpawn", xmlpaths)
+            transporters = [get_id(t) for t in spawns]
+            srs["Transporters"] = transporters
+    except (ValueError, IndexError):
+        pass
 
     ##########
     # SUPPLY #
@@ -298,19 +309,19 @@ def serialize_unit(unit, xmlpaths, localization):
     ##########
     # DAMAGE #
     ##########
-    damage = get_module(unit, "TModernWarfareDamageModuleDescriptor", xmlpaths)
+    damage = get_module(unit, "TModernWarfareDamageModuleDescriptor", xmlpaths, map_name="Damage")
     if damage is not None:
         for attr in ["MaxDamages", "AutoOrientation", "Transporter", "IsTargetableAsBoat"]:
             srs[attr] = get_attribute(damage, attr)
         common_damage = get_object_reference(damage, "CommonDamageDescriptor", xmlpaths)
         for attr in ["StunDamagesRegen", "StunDamagesToGetStunned", "SuppressDamagesRegenRatioOutOfRange",
                      "MaxSuppressionDamages"]:
-            srs[attr] = get_collection(common_damage, attr)
+            srs[attr] = get_attribute(common_damage, attr)
         for attr in ["PaliersSuppressDamages", "PaliersPhysicalDamages"]:
             srs[attr] = get_collection(common_damage, attr)
         armor = get_object_reference(common_damage, "BlindageProperties", xmlpaths)
         for side in ["Front", "Sides", "Rear", "Top"]:
-            a = get_attribute("BaseBlindage", get_object_reference(armor, "ArmorDescriptor{0}".format(side), xmlpaths))
+            a = get_attribute(get_object_reference(armor, "ArmorDescriptor{0}".format(side), xmlpaths), "BaseBlindage")
             srs["Armor{0}".format(side)] = a
 
 
@@ -337,8 +348,8 @@ def main():
     # import pdb; pdb.set_trace()
     localization = pd.read_csv(localizationpath, encoding='windows-1252', index_col=0)
     units = xmlpaths['TUniteAuSolDescriptor.xml'].findall("TUniteAuSolDescriptor")
-    # test = list(units)[1360:1370]
-    df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(units)], axis=1).T
+    test = list(units)[:20]
+    df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(test)], axis=1).T
     df.to_csv("../data/510049986/raw_data.csv")
 
 if __name__ == "__main__":
