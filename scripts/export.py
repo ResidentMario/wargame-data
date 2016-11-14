@@ -295,6 +295,17 @@ def serialize_unit(unit, xmlpaths, localization):
                 for attr in ["MinimalHitProbability", "MinimalCritProbability", "HitProbability",
                              "HitProbabilityWhileMoving"]:
                     weapon_srs[attr] = get_attribute(acc, attr)
+                is_missile = get_attribute(ammo, "MissileDescriptor")
+                if "TUnite" in is_missile:
+                    missile = get_object_reference(ammo, "MissileDescriptor", xmlpaths)
+                    modules = [module.text for module in missile.find("Modules")]
+                    missile_text = list(filter(lambda module: "Mouvement" in module, modules))[0]
+                    missile_module_id = missile_text.split(":")[-1].split(" ")[1]
+                    missile_move = xmlpaths['TMouvementHandler_GuidedMissileDescriptor.xml'].find(
+                        "TMouvementHandler_GuidedMissileDescriptor[@id='{0}']" \
+                        .format(missile_module_id))
+                    weapon_srs["MissileMaxSpeed"] = get_attribute(missile_move, "Maxspeed")
+                    weapon_srs["MissileMaxAcceleration"] = get_attribute(missile_move, "MaxAcceleration")
                 # Add the weapon to the list.
                 weapons.append(weapon_srs)
             # Attach all of the weapons to the dataset!
@@ -348,8 +359,8 @@ def main():
     # import pdb; pdb.set_trace()
     localization = pd.read_csv(localizationpath, encoding='windows-1252', index_col=0)
     units = xmlpaths['TUniteAuSolDescriptor.xml'].findall("TUniteAuSolDescriptor")
-    test = list(units)[:20]
-    df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(test)], axis=1).T
+    # test = list(units)[:20]
+    df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(units)], axis=1).T
     df.to_csv("../data/510049986/raw_data.csv")
 
 if __name__ == "__main__":
