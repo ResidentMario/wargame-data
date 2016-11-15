@@ -15,27 +15,214 @@ Although the statistics on these cards are a good first-order approximation, the
 gameplay mechanics and characteristics that these cards don't provide information on, as well as a number of
 inaccuracies in presentation.
 
-There are hundreds of units like this one, and balancing real time strategy games is hard. I (and others) are interested
+There are over 1700 units like this one, and balancing real time strategy games is hard. I (and others) are interested
 in examining interactions between different units in the game. To that effect, this project aims to provide a
 reproducible export of the "true" Wargame: Red Dragon (henceforth RD) unit values for the purposes of examination.
 
-## Contents
+## Getting the Data
 
-The `/data` folder contains all of the `CSV` dataset exports. **These are of primary interest**.
 
-The datasets are organized by game version. Each game version corresponds with a patch to the game, and the higher
-the patch number the more recent the game version (right up to the current one). A patch log history is [available in
- the forums](http://forums.eugensystems.com/viewtopic.php?f=155&t=57546).
+Each subfolder of `/data` contains a `final_data.csv`, the `CSV` dataset export, organized. **This file is of primary
+ interest**. The datasets are organized by game version. Each game version corresponds with a patch to the game, and
+ the higher the patch number the more recent the game version (right up to the current one). A patch log history is
+ [available in the forums](http://forums.eugensystems.com/viewtopic.php?f=155&t=57546).
 
-The `/raws` folder contains the corresponding raw XML files, `/scripts` contains the scripts used as part of the
-build process (detailed below), and `/figures` and `/notebooks` contain assorted support files.
+<!--
 
-Each folder contains a `raw_data.csv` file, which contains everything you need. However, note that since this
+Each folder also contains a `raw_data.csv` file, which contains everything you need. However, note that since this
 dataset is an uncompressed word-for-word copy of the game's gut internals, this dataset is *extremely*
 verbose. It will only make sense if you have a deep understanding of the game's internals. A data dictionary is
 provided in the form of the [Wargame Internal Values Manual](https://github.com/ResidentMario/wargame/blob/master/Wargame_Internal_Values_Manual.pdf).
 
-Work on simplifying the dataset into another, still flatter file is ongoing.
+-->
+
+
+## Data Dictionary
+
+* **ID &mdash; The unit's unique ID.
+* **NameInMenu &mdash; The unit's name in-game.
+
+#### Defense
+
+* **ArmorFront**
+* **ArmorSides**
+* **ArmorTop**
+* **ArmorRear**
+* **ArmorFrontSplashResistant**
+* **ArmorSidesSplashResistant**
+* **ArmorTopSplashResistant**
+* **ArmorRearSplashResistant** &mdash; Whether or not the unit is splash damage resistant on this side. Units which have
+this property set to True and receive HE splash damage from the given direction (from, say, a bomb landing nearby)
+will resist that damage as though they are fully armored, greatly reducing the damage they take compared to units
+lacking both heavy armor and this property.
+* **CIWS** &mdash; The CIWS level displayed on the unit card. Only non-null for ships. This variable is for
+visual display only.
+* **HitRollECMModifier** &mdash; A signed float of how much ECM the unit has.
+* **HitRollSizeModifier** &mdash; A signed float of how the unit's size affects its chance to be hit.
+* **Strength**
+* **StunDamageRegen**
+* **StunDamageToGetStunned** &mdash; Presumably, how much suppression damage the unit must receive (over an unknown
+period of time) to get stunned. This variable and the one above are poorly understood.
+* **SuppressDamageRatioIfTransporterKilled &mdash; What percentage of the unit's total suppression ceiling the
+unit will take in suppression damage if the transporter it is in is destroyed and the unit survives.
+* **SuppressionCeiling &mdash; Usually 800.
+
+#### Card Data
+
+* **Decks** &mdash; A pipe (`|`) delimited list of deck archetypes this unit appears in (e.g. `Airborne|Motorized|Marine`).
+* **IsCommandUnit**
+* **IsPrototype**
+* **IsShip**
+* **IsTransporter** &mdash; Whether or not this unit can transport other units (infantry if it is a ground carrier,
+anything if it is a barge).
+* **RookieDeployableAmount**
+* **TrainedDeployableAmount**
+* **HardenedDeployableAmount**
+* **VeteranDeployableAmount**
+* **EliteDeployableAmount**
+* **MaxPacks** &mdash; The maximum number of cards of this unit which may be put into a deck.
+* **MotherCountry**
+* **Price**
+* **ProductionTime** &mdash; How long, in seconds, it takes for the unit to appear.
+* **Sailing** &mdash; Deep Sea, Coastal, or Riverine. Applies only to ships.
+* **Tab**
+* **Training** &mdash; Note that this variable, present only on infantry, is entirely cosmetic.
+* **Transporters** &mdash; A pipe (`|`) delimited list of IDs of transporters for this unit (e.g. `15533|15534|16104`).
+* **UpgradeFrom** &mdash; If this unit is an upgrade to (appears right of in the Armory to) another unit, the ID of that
+other unit.
+* **UpgradeTo** &mdash; If this unit upgrades to (appears left of in the Armory to) another unit, the ID of that other unit.
+* **Year**
+
+#### Weapons
+
+Units in Wargame: Red Dragon may have up to 11 weapons mounted on-board (yes&mdash;far more than the three reported
+on the card). This is due to naval units, which have many more weapons than those immediately displayed. The dataset
+splits weapon characteristics into fields of the form `Weapon<N><ATTRIBUTE>`. So for example, the AP of the second
+weapon on a unit would be reported by `Weapon2AP`. Following this schematic:
+
+##### Identifying Characteristics
+* **Name** &mdash; The weapon name (e.g. `M2 Browning`).
+* **Type** &mdash; The weapon type (e.g. `Quad Autocannon`).
+* **Caliber** &mdash; The displayed weapon caliber (e.g. `9mm Parabellum`).
+* **DisplayedAmmunition** &mdash; The number of rounds of ammunition for a weapon is reproduced faithfully for large
+weapons but incorrectly for small arms, which are simulated with up to one tenth as many in-game "bullets" as appear on
+the card. This parameter is of the number of rounds shown on the card; for the actual number of rounds, refer to
+`ShotsPerSalvo` and `NumberOfSalvos`.
+* **PositionOnCard** &mdash; If this weapon is shown on the unit card, which of the three slots it falls into.
+* **Tags** &mdash; A pipe (`|`) delimited list list of tags that apply to this weapon (e.g. `HEAT|STAT|F&F|`). For a
+list of tags refer to [this wiki page](http://wargame-series.wikia.com/wiki/Weapons). Two hidden tags included in
+this listing are autoloaders (`AL`) and integrated firing control (`IFC`).
+
+##### Damage Output
+* **AP**
+* **HE**
+* **RadiusSplashPhysicalDamage**
+* **RadiusSplashSuppressDamage**
+
+##### Aim/Shoot/Reload
+* **AimTime**
+* **ProjectilesPerShot**
+* **TimeBetweenShots**
+* **ShotsPerSalvo**
+* **TimeBetweenSalvos**
+* **NumberOfSalvos**
+
+##### Accuracy
+* **HitProbability**
+* **HitProbabilityWhileMoving**
+* **MinimalCritProbability**
+* **MinimalHitProbability**
+* **MissileTimeBetweenCorrections** &mdash; If the unit fires a missile, this is how many seconds between accuracy
+"rerolls" on that shot. Rerolls are a strong accuracy debuff on slow-moving missiles.
+
+##### Range
+* **RangeGround**
+* **RangeGroundMinimum**
+* **RangeHelicopters**
+* **RangeHelicoptersMinimum**
+* **RangeMissiles**
+* **RangeMissilesMinimum**
+* **RangePlanes**
+* **RangePlanesMinimum**
+* **RangeShip**
+* **RangeShipMinimum**
+
+##### Dispersion
+* **AngleDispersion**
+* **DispersionAtMinRange**
+* **DispersionAtMaxRange**
+* **CorrectedShotDispersionMultiplier**
+
+##### Misc
+* **SupplyCost**
+* **FireTriggeringProbability** &mdash; The probability that the impact of a unit of this weapon's round will start a
+ fire. All napalm weapons have this parameter set to to 1, for example.
+* **Noise** &mdash; How much noise this weapon generates when it is fired. Weapon firing noise usually makes a unit far
+easier to spot, unless the weapon is silenced.
+* **RayonPinned** &mdash; What this parameter does is unknown.
+
+
+#### Movement
+
+* **Amphibious** &mdash; Set to True if the unit can traverse water and False if it cannot traverse water. This field is
+left empty if the unit is an air unit.
+* **FuelCapacity** &mdash; How many liters of fuel the unit carries onboard, and, thereof, how expensive it is to refuel.
+* **Autonomy** &mdash; How many seconds of movement a unit gets before it runs out of fuel.
+* **MaxAcceleration**
+* **MaxDeceleration**
+* **MaxSpeed** &mdash; How fast the unit moves at full speed, in kilometers per hour. For planes, this is their flight
+speed, as planes always move at the same speed.
+* **MovementType** &mdash; Tracked, Wheeled, Foot, or Air.
+* **TimeHalfTurn**
+
+The following variables apply only to planes:
+
+* **AirplaneFlyingAltitude** &mdash; Airplanes fly at this altitude.
+* **AirplaneMinimalAltitude** &mdash; Airplanes refuse to go below this altitude (this was implemented in order to
+deal with e.g. early "bugs" wherein a unit could accidentally bomb itself).
+
+The following variables apply only to helicopters:
+
+* **HelicopterFlyingAltitude**
+* **HelicopterHoverAltitude**
+* **CyclicManoeuvrability**
+* **GFactorLimit**
+* **LateralSpeed**
+* **Mass**
+* **MaxInclination**
+* **RotorArea**
+* **TorqueManoeuvrability**
+* **UpwardsSpeed**
+
+#### Vision
+
+Not much is known about the mechanics of vision. Aside from distance normalization these values are reported as-is.
+
+* **AirToAirHelicopterDetectionRadius** &mdash; Meter radius for air unit detection, used by air units.
+* **HelicopterDetectionRadius** &mdash; Meter radius for helicopter detection.
+* **IdentifyBaseProbability** &mdash; Unknown.
+* **Optics** &mdash; If populated, one of Good, Very Good, or Exceptional.
+* **OpticalStrengthAir** &mdash; Meter radius for air detection used by ground units.
+* **OpticalStrengthAntiradar** &mdash; Meter radius for SEAD detection.
+* **OpticalStrengthGround**  &mdash; Meter radius for ground detection.
+* **Stealth** &mdash; The unit's stealth visibility multiplier. Note that this is *not* the Stealth value displayed
+in-game, this is the actual in-engine multiplier.
+* **TimeBetweenEachIdentifyRoll** &mdash; Unknown.
+
+<!-- TODO: Delete PorteeVision, Salves, CanSmoke -->
+
+#### Supply
+* **SupplyCapacity**
+* **SupplyPriority** &mdash; The lower the number, the greater the number of other supply units which will draw from this
+ one.
+
+#### Misc
+
+* **AutoOrientation** &mdash; Whether or not the unit can be oriented using Ctrl+Drag. This is set to True for all
+non-infantry units.
+* **ClassNameForDebug** &mdash; The name the unit goes under within the internal game files. Not always entirely serious.
+
+For further exposition on the data, refer to the [Wargame Internal Values Manual](https://github.com/ResidentMario/wargame/blob/master/Wargame_Internal_Values_Manual.pdf).
 
 ## Build Process
 ### Overview
@@ -102,4 +289,4 @@ What this will do: after several minutes' processing time the folder you indicat
 
 ### Step 3: Simplification
 
-This still needs to be done.
+Still to come.
