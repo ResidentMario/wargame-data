@@ -356,12 +356,11 @@ def main():
 
     localizationpath = "{0}/{1}/{2}".format(parser.parse_args().path, parser.parse_args().version,
                                      "ZZ_Win/pc/localisation/us/localisation/unites_fixed.csv").replace("/", "\\")
-    # import pdb; pdb.set_trace()
     localization = pd.read_csv(localizationpath, encoding='windows-1252', index_col=0)
     units = xmlpaths['TUniteAuSolDescriptor.xml'].findall("TUniteAuSolDescriptor")
     # test = list(units)[:20]
     df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(units)], axis=1).T
-    df.to_csv(parser.parse_args().output)
+    df.to_csv(parser.parse_args().output + "/" + parser.parse_args().version +  "/raw_data.csv")
 
 if __name__ == "__main__":
     main()

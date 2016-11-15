@@ -133,9 +133,9 @@ def main():
         return srs
 
     # More cavorting...
-    weapons = units.safe_apply(weaponify, axis='columns')
+    weapons = units.apply(weaponify, axis='columns')
     units = units.drop([c for c in units.columns if 'Weapon' in c], axis=1).join(weapons)
-    hashes = pd.read_csv(path=parser.parse_args().wargame + "/" + parser.parse_args().version +
+    hashes = pd.read_csv(parser.parse_args().path + "/" + parser.parse_args().version +
                         "/ZZ_Win/pc/localisation/us/localisation/unites_fixed.csv",
                          encoding='windows-1252',
                          index_col=0)
@@ -666,7 +666,7 @@ def main():
     for deck in ['Mechanized', 'Motorized', 'Marine', 'Airborne', 'Armored', 'Support']:
         del units_weaponified[deck + 'Deck']
 
-    units_weaponified.to_csv("../data/510049986/final_data.csv", encoding='utf-8')
+    units_weaponified.to_csv("../data/"  + parser.parse_args().version + "/final_data.csv", encoding='utf-8')
 
 
 if __name__ == "__main__":
