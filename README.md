@@ -39,8 +39,8 @@ provided in the form of the [Wargame Internal Values Manual](https://github.com/
 
 ## Data Dictionary
 
-* **ID &mdash; The unit's unique ID.
-* **NameInMenu &mdash; The unit's name in-game.
+* **ID** &mdash; The unit's unique ID.
+* **NameInMenu** &mdash; The unit's name in-game.
 
 #### Defense
 
