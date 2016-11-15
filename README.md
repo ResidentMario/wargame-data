@@ -63,9 +63,9 @@ visual display only.
 * **StunDamageRegen**
 * **StunDamageToGetStunned** &mdash; Presumably, how much suppression damage the unit must receive (over an unknown
 period of time) to get stunned. This variable and the one above are poorly understood.
-* **SuppressDamageRatioIfTransporterKilled &mdash; What percentage of the unit's total suppression ceiling the
+* **SuppressDamageRatioIfTransporterKilled** &mdash; What percentage of the unit's total suppression ceiling the
 unit will take in suppression damage if the transporter it is in is destroyed and the unit survives.
-* **SuppressionCeiling &mdash; Usually 800.
+* **SuppressionCeiling** &mdash; Usually 800.
 
 #### Card Data
 
