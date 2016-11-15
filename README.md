@@ -228,6 +228,14 @@ non-infantry units.
 
 For further exposition on the data, refer to the [Wargame Internal Values Manual](https://github.com/ResidentMario/wargame/blob/master/Wargame_Internal_Values_Manual.pdf).
 
+## Caveats
+
+* Wargame: Red Dragon data is stored in an arcane way, with a series of arcane rules controlling what maps to what in
+the in-game display. This data export thus constitutes a best attempt, and is quite possibly incomplete in some sense.
+* The `[AoE]` tag is attached to weapons in a scattershot and illogical manner (for instance, have you ever wondered
+by HE Bombs do not have an `AoE` tag?). Thus in this data export, it is not always attached correctly and should be
+treated with a grain of salt.
+
 ## Build Process
 ### Overview
 
@@ -283,9 +291,9 @@ useful we have to flatten it&mdash;what I am here calling "Datasetification".
 To do this you need to run the
 [`export.py`](https://github.com/ResidentMario/wargame-data/blob/master/scripts/export.py) script. As before, run:
 
-    python dump.py PATH VERSION OUTPUT
+    python dump.py XMLPATH VERSION OUTPUT
 
-This time replace `PATH` to the folder containing the XML dumps you generated earlier, `VERSION` with the game
+This time point `PATH` to the folder containing the XML dumps you generated earlier, `VERSION` with the game
 version, and `OUTPUT` with, once again, the folder you want to save the result to.
 
 What this will do: after several minutes' processing time the folder you indicated should now contain a `CSV` file, e.g.
@@ -293,4 +301,12 @@ What this will do: after several minutes' processing time the folder you indicat
 
 ### Step 3: Simplification
 
-Still to come.
+Finally, the data needs to be simplified. This is handled by
+[`clean.py`](https://github.com/ResidentMario/wargame-data/blob/master/scripts/export.py) with the following arguments:
+
+    python dump.py XMLPATH VERSION DATAPATH
+
+This time point `XMLPATH` to the folder containing the XML dumps you generated earlier, `VERSION` with the game
+version, and `DATAPATH` with, once again, the folder you saved result from `export.py` to.
+
+If all goes well you should now have a copy of `final_data.csv`.
