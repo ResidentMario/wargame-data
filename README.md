@@ -260,8 +260,9 @@ out-of-binary, and then stitch their variables together.
 
 To export the raw data for a version of choice of Wargame: Red Dragon, first download Power Crystal's
 [XML Data Exporter](http://forums.eugensystems.com/viewtopic.php?f=187&t=57927&hilit=XML+Exporter). Make sure you
-have [Python 3.5](https://www.python.org/downloads/release/python-350/) or later installed, and that the copy of the
-Wargame Modding Suite that comes with the data exporter is properly configured.
+have [Python 3.5](https://www.python.org/downloads/release/python-350/) or later installed (along with the [`pandas`](http://pandas.pydata.org/), [`tqdm`](https://pypi.python.org/pypi/tqdm)
+, and  [`lxml`](http://lxml.de/) modules), and that the copy of the Wargame Modding Suite that comes with the data
+exporter is properly configured.
 
 Either [clone this repository](https://git-scm.com/docs/git-clone) or copy and save
 [`dump.py`](https://github.com/ResidentMario/wargame-data/blob/master/scripts/dump.py) somewhere
@@ -297,7 +298,7 @@ This time point `PATH` to the folder containing the XML dumps you generated earl
 version, and `OUTPUT` with, once again, the folder you want to save the result to.
 
 What this will do: after several minutes' processing time the folder you indicated should now contain a `CSV` file, e.g.
-`510049986/raw_data.csv`. This file contains the game's unit data, flattened into a convenient format. Rejoice!
+`510049986/raw_data.csv`.
 
 ### Step 3: Simplification
 
