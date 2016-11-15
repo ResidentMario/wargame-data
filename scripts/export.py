@@ -361,7 +361,7 @@ def main():
     units = xmlpaths['TUniteAuSolDescriptor.xml'].findall("TUniteAuSolDescriptor")
     # test = list(units)[:20]
     df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(units)], axis=1).T
-    df.to_csv("../data/510049986/raw_data.csv")
+    df.to_csv(parser.parse_args().output)
 
 if __name__ == "__main__":
     main()
