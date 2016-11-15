@@ -40,7 +40,7 @@ provided in the form of the [Wargame Internal Values Manual](https://github.com/
 ## Data Dictionary
 
 * **ID** &mdash; The unit's unique ID.
-* **NameInMenu** &mdash; The unit's name in-game.
+* **Name**
 
 #### Defense
 
@@ -57,8 +57,8 @@ will resist that damage as though they are fully armored, greatly reducing the d
 lacking both heavy armor and this property.
 * **CIWS** &mdash; The CIWS level displayed on the unit card. Only non-null for ships. This variable is for
 visual display only.
-* **HitRollECMModifier** &mdash; A signed float of how much ECM the unit has.
-* **HitRollSizeModifier** &mdash; A signed float of how the unit's size affects its chance to be hit.
+* **ECM**
+* **SizeModifier** &mdash; A signed float of how the unit's size affects its chance to be hit.
 * **Strength**
 * **StunDamageRegen**
 * **StunDamageToGetStunned** &mdash; Presumably, how much suppression damage the unit must receive (over an unknown
@@ -132,6 +132,10 @@ this listing are autoloaders (`AL`) and integrated firing control (`IFC`).
 * **HitProbabilityWhileMoving**
 * **MinimalCritProbability**
 * **MinimalHitProbability**
+
+##### Missile Characteristics
+* **MissileMaxSpeed**
+* **MissileMaxAcceleration**
 * **MissileTimeBetweenCorrections** &mdash; If the unit fires a missile, this is how many seconds between accuracy
 "rerolls" on that shot. Rerolls are a strong accuracy debuff on slow-moving missiles.
 
