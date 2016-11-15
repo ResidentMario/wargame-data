@@ -7,6 +7,7 @@ from tqdm import tqdm
 import pandas as pd
 import os
 import argparse
+import subprocess
 
 parser = argparse.ArgumentParser(description="""
 Parse an XML dump of raw Wargame: Red Dragon internal unit value information into a unified CSV file.
@@ -360,6 +361,8 @@ def main():
     units = xmlpaths['TUniteAuSolDescriptor.xml'].findall("TUniteAuSolDescriptor")
     # test = list(units)[:20]
     df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(units)], axis=1).T
+    subprocess.run(["mkdir", (parser.parse_args().output + "/" + parser.parse_args().version).replace("/", "\\")],
+                   shell=True)
     df.to_csv(parser.parse_args().output + "/" + parser.parse_args().version +  "/raw_data.csv")
 
 if __name__ == "__main__":
