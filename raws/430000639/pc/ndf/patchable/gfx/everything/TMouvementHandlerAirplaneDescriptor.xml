@@ -1,0 +1,2887 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TMouvementHandlerAirplaneDescriptors>
+  <TMouvementHandlerAirplaneDescriptor id="32919">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>26000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41704 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="32936">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41716 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="32948">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41725 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="32958">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41732 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="32965">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41739 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="32973">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41746 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="32981">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41754 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="32991">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41762 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33001">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41769 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33011">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41775 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33018">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41782 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33025">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41790 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33032">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41798 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33039">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41806 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33046">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41813 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33055">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41821 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33065">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41828 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33072">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41836 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33081">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41844 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33090">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41852 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33097">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41858 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33105">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41865 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33113">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41872 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33120">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41879 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33127">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41887 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33134">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41894 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33142">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41900 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33151">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41906 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33159">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41912 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33167">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41919 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33174">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41927 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33182">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41934 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33189">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41942 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33196">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41949 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33203">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41956 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33210">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41962 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33217">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41968 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33224">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41974 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33232">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41980 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33241">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>78000</FlyingAltitude>
+    <MinimalAltitude>15600</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41987 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33247">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>78000</FlyingAltitude>
+    <MinimalAltitude>15600</MinimalAltitude>
+    <PhysicsConfiguration>153 : 41994 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33255">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42002 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33263">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42010 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33270">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42018 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33277">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42026 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33284">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42034 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33292">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42042 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33299">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42050 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33307">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42058 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33314">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42066 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33321">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42073 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33329">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42080 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33336">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42088 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33343">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42096 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33352">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42105 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33359">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42112 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33367">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42118 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33375">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42126 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33383">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42134 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33391">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42142 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33398">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42149 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33406">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42157 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33413">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42164 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33420">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42172 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33427">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42179 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33434">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42186 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33441">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42193 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33450">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42201 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33457">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42208 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33464">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42216 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33471">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42223 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33478">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42230 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33486">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42237 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33493">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42244 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33500">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42252 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33507">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42260 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33515">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42268 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33524">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42276 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33531">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42284 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33539">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>78000</FlyingAltitude>
+    <MinimalAltitude>15600</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42291 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33546">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42297 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33553">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42305 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33560">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42313 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33567">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42321 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33574">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42329 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33582">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42337 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33589">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42345 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33596">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42352 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33603">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42359 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33610">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42367 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33617">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42375 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33624">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42383 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33631">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42391 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33639">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42399 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33646">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42406 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33654">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42413 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33661">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42420 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33668">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42427 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33675">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42433 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33682">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42439 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33689">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42447 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33697">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42453 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33704">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42460 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33711">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42468 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33718">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42474 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33725">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42481 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33733">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42488 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33740">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42496 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33747">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42504 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33754">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42512 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33761">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42520 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33768">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42528 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33775">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42534 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33782">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42541 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33789">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42548 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33796">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42556 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33803">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42564 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33810">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42571 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33817">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42579 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33824">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42585 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33831">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42593 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33838">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42601 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33845">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42608 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33852">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42616 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33859">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42623 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33866">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42631 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33873">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42638 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33880">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42644 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33888">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>78000</FlyingAltitude>
+    <MinimalAltitude>15600</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42651 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33895">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42657 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33902">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42663 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33909">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42670 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33916">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42677 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33923">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42684 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33930">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42692 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33938">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42700 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33945">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42708 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33952">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42716 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33959">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42724 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33967">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42732 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33974">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>57200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>78000</FlyingAltitude>
+    <MinimalAltitude>15600</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42738 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33981">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>57200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>78000</FlyingAltitude>
+    <MinimalAltitude>15600</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42745 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33988">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42753 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="33995">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42761 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34002">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42769 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34009">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42777 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34016">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42785 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34023">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42793 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34030">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42801 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34037">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42809 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34044">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42816 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34051">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42824 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34059">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42832 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34066">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42839 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34073">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42846 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34081">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42854 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34089">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42862 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34096">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42868 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34103">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42875 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34110">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42883 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34117">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42891 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34124">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42898 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34131">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42905 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34139">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42913 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34146">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42920 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34153">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42928 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34160">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42936 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34167">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42943 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34174">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42951 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34181">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42958 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34188">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42965 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34195">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42973 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34203">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42981 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34210">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42989 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34218">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 42996 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34225">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43003 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34233">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43011 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34240">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43019 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34247">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43027 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34254">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43035 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34261">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43043 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34268">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43051 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34275">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43059 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34282">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>46800</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43067 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34289">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43075 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34296">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43082 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34303">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43089 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34310">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43096 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34317">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43103 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34324">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43110 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34331">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43117 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34338">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43125 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34345">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43133 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34352">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43141 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34359">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43149 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34366">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43155 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34373">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>26000</FlyingAltitude>
+    <MinimalAltitude>5200</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43161 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34380">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43169 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34387">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>39000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>39000</FlyingAltitude>
+    <MinimalAltitude>7800</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43176 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34394">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43184 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34401">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43192 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34408">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43200 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34415">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>65000</FlyingAltitude>
+    <MinimalAltitude>13000</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43207 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34422">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43215 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="34429">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>52000</FlyingAltitude>
+    <MinimalAltitude>10400</MinimalAltitude>
+    <PhysicsConfiguration>153 : 43223 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+  <TMouvementHandlerAirplaneDescriptor id="84579">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>52000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <FlyingAltitude>78000</FlyingAltitude>
+    <MinimalAltitude>15600</MinimalAltitude>
+    <PhysicsConfiguration>153 : 84586 (True) - TAirplanePhysicsConfiguration</PhysicsConfiguration>
+    <CriticalEffectModule>97 : 32911 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <GunMuzzleSpeed>300000</GunMuzzleSpeed>
+    <LandingGearOutPhysicalPropertyName>InShowRoom</LandingGearOutPhysicalPropertyName>
+    <LandingGearSubDepictionName>Landing Gear</LandingGearSubDepictionName>
+    <FrontLandingGearMeshNodeName>Train_Avant</FrontLandingGearMeshNodeName>
+    <BackLandingGearMeshNodeName>Train_Arriere</BackLandingGearMeshNodeName>
+  </TMouvementHandlerAirplaneDescriptor>
+</TMouvementHandlerAirplaneDescriptors>

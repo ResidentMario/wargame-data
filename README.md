@@ -225,6 +225,8 @@ in-game, this is the actual in-engine multiplier.
 * **AutoOrientation** &mdash; Whether or not the unit can be oriented using Ctrl+Drag. This is set to True for all
 non-infantry units.
 * **ClassNameForDebug** &mdash; The name the unit goes under within the internal game files. Not always entirely serious.
+* **Salves**
+* **SalvoIsMainSalvo** &mdash; These two variables were included in the export in error, and may be safely ignored.
 
 For further exposition on the data, refer to the [Wargame Internal Values Manual](https://github.com/ResidentMario/wargame/blob/master/Wargame_Internal_Values_Manual.pdf).
 

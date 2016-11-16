@@ -1,0 +1,3002 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TTransportableModuleDescriptors>
+  <TTransportableModuleDescriptor id="14527">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14084 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24765 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14548">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 24784 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14577">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 24811 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14586">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 24765 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14652">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13964 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14108 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14669">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14677">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12929 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14119 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14123 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14685">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12998 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12959 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12963 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14695">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14084 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24784 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14744">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14063 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24765 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14806">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14063 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24811 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14818">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14063 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25044 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14833">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14063 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24784 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14847">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 25044 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14906">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12917 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14265 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14913">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12917 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14920">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13942 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12917 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14265 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14927">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14265 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14934">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14943">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12917 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14265 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14951">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14265 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14960">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13942 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12917 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14128 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14968">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13383 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12917 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14265 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14977">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14265 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14991">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12917 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14128 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="14999">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13942 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12932 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12917 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13375 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14128 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15032">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14063 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25235 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15065">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12880 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14108 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15072">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12880 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12882 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14108 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15085">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15091">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13433 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13378 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14264 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15128">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14063 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25323 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15156">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13384 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14264 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14268 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15165">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14084 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24811 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15222">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 25235 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15289">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14084 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25235 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15296">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14084 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25044 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15690">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13497 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13847 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13388 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14133 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14240 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15729">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14012 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12929 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14119 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15752">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12929 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14119 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15806">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14012 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12929 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14123 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15820">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13981 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13869 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13887 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13996 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15828">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13869 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13887 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13996 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15835">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13981 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14279 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14281 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15842">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13710 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15849">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13869 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15862">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13869 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13887 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15882">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13710 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13981 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14279 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14281 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15889">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15897">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13869 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15904">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13869 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15911">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14279 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15918">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13869 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="15925">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13857 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13981 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13869 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14218 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16098">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13837 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16105">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14019 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16112">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12929 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13045 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16119">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12929 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14007 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16193">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12880 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12882 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16270">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14034 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14030 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14158 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16282">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13951 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14127 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14125 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16289">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14177 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16296">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14177 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16303">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14030 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16332">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13747 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14177 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14284 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16344">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14034 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14158 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16351">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13964 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12880 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14248 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16358">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14108 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16365">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14248 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14108 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16372">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12880 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12882 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14108 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16379">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14111 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16527">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14019 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16534">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14216 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14189 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16541">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13839 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13608 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14124 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16548">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14111 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16561">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13497 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13847 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14133 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14240 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16599">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13697 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14216 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16671">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13847 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13388 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14133 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16684">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13747 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14177 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14284 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16702">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13140 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13146 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16715">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13558 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13614 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16728">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14034 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14030 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14158 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16735">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12929 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13045 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14119 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16742">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14037 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13548 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13087 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16749">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14019 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16756">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13611 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14237 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16763">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14037 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13548 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16770">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14051 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13697 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13690 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14189 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16812">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13476 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16819">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14030 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16826">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13388 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16833">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14037 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16840">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13840 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16893">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14030 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16920">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14140 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14147 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16932">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13854 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13876 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13907 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16950">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13852 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14140 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16957">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13876 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14140 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16972">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13854 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14140 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14147 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16979">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13854 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13876 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13907 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14140 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16986">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14140 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14147 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="16993">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13852 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14140 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14147 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17000">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13876 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17007">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13221 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13876 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14140 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17020">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14034 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14158 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17033">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13847 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13388 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14133 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17046">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13847 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13388 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14133 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17067">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13140 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17274">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14051 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14216 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14189 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17295">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14084 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25323 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17301">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14177 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14284 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17308">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14051 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14189 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17321">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13558 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17379">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14124 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17429">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13384 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14264 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14268 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17558">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14248 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17571">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14197 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="17578">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13690 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14189 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18539">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13140 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18652">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13474 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14111 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18659">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14177 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14284 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18666">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14149 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18673">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14019 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13013 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18680">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12959 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18699">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12999 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12965 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18706">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12999 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14209 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18713">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18720">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18727">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18741">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14209 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18756">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18763">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14209 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18770">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13005 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18777">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13971 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12965 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18792">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18799">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14209 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18812">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13009 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14220 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18854">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13474 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18861">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13558 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18874">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13839 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13608 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14124 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18955">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13474 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14037 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14111 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="18978">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13697 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14216 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19008">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13747 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14177 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19049">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13010 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19092">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13010 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19111">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14019 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13013 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19128">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13840 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13576 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19135">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13840 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13608 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13576 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19142">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13388 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13514 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13519 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19155">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13697 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14216 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19168">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13964 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14248 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19175">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19211">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13697 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12955 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14216 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19260">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13840 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13608 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13576 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25157 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19267">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14037 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19274">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13840 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13576 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19287">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13840 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13608 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13576 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19294">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14051 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14216 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19321">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13847 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14133 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14240 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19328">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13497 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13847 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14133 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19366">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13320 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19373">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13261 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13645 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19380">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13319 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19387">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13266 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14260 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19394">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13266 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19401">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13261 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19425">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13261 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19438">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13261 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19451">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13261 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19458">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13261 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19465">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13266 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13261 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14260 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19478">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13319 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14260 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14266 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19495">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13433 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13951 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14264 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14127 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19517">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13945 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14188 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19529">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13690 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19536">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12880 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19543">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13384 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13431 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14264 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19607">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14237 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19615">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13611 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14237 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19656">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14285 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14177 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19773">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13839 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13608 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14141 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19795">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14019 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19802">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13010 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13002 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19809">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13558 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13507 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19816">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12880 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13952 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14244 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14108 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19834">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13697 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12955 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12960 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19852">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13837 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14197 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19859">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14264 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14268 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19956">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12998 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13010 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14188 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19963">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13945 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12998 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14188 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="19970">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13945 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12998 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14149 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14188 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20012">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14037 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13548 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13087 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20019">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13727 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14037 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13548 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14263 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20026">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13840 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12935 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13608 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13576 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25178 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20103">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13683 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13558 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13018 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20110">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13847 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13388 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13514 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14133 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20500">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13152 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20563">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 25323 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20958">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14237 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20971">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13143 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25198 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="20978">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13611 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12933 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13140 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14153 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21003">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12998 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14188 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21010">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12998 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13505 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14149 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21017">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13010 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12948 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21024">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13945 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14149 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21031">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12994 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14213 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14188 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21050">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13317 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14125 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21069">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13433 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14264 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14268 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24885 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21082">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13433 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13951 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14268 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14125 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24899 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21089">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13490 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 13317 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14268 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25164 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21271">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 14022 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14211 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21319">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13700 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14216 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14189 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21415">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 13568 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 24907 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="21422">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>infanterie</collectionelement>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportListAvailableForSpawn>
+      <collectionelement>81 : 12929 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14007 (True) - TUniteAuSolDescriptor</collectionelement>
+      <collectionelement>81 : 14119 (True) - TUniteAuSolDescriptor</collectionelement>
+    </TransportListAvailableForSpawn>
+    <TransportedTexture>78 : 25186 (True) - TUIResourceTexture</TransportedTexture>
+  </TTransportableModuleDescriptor>
+  <TTransportableModuleDescriptor id="84553">
+    <ControllerName>TransportableController</ControllerName>
+    <Categories>
+      <collectionelement>barge</collectionelement>
+    </Categories>
+    <SuppressDamageRatioIfTransporterKilled>0.75</SuppressDamageRatioIfTransporterKilled>
+    <TransportedTexture>78 : 84561 (True) - TUIResourceTexture</TransportedTexture>
+    <TransportListAvailableForSpawn>null</TransportListAvailableForSpawn>
+  </TTransportableModuleDescriptor>
+</TTransportableModuleDescriptors>

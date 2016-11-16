@@ -231,7 +231,6 @@ def serialize_unit(unit, xmlpaths, localization):
         if transportable is not None:
             srs["SuppressDamageRatioIfTransporterKilled"] = get_attribute(transportable,
                                                                           "SuppressDamageRatioIfTransporterKilled")
-            # import pdb; pdb.set_trace()
             spawns = get_object_reference_list(transportable, "TransportListAvailableForSpawn", xmlpaths)
             transporters = [get_id(t) for t in spawns]
             srs["Transporters"] = transporters
@@ -251,8 +250,11 @@ def serialize_unit(unit, xmlpaths, localization):
     ###########
     weapon_manager = get_module(unit, "TWeaponManagerModuleDescriptor", xmlpaths)
     if weapon_manager is not None:
-        for attr in ["SalvoIsMainSalvo", "Salves"]:
+        # SalvoIsMainSalvo was located elsewhere in the 4x branch versions.
+        for attr in ["Salves"]:
             srs[attr] = get_collection(weapon_manager, attr)
+        if str(parser.parse_args().version)[0] == "5":
+            srs["SalvoIsMainSalvo"] = get_collection(weapon_manager, "SalvoIsMainSalvo")
         weapons = []
         for turret in get_object_reference_list(weapon_manager, "TurretDescriptorList", xmlpaths):
             turret_kind = turret.tag
@@ -311,10 +313,8 @@ def serialize_unit(unit, xmlpaths, localization):
                 weapons.append(weapon_srs)
             # Attach all of the weapons to the dataset!
         for i, weapon in enumerate(weapons, start=1):
-            # import pdb; pdb.set_trace()
             weapons[i - 1].index = ["Weapon{0}{1}".format(i, attr.replace("Weapon", ""))\
                                     for attr in weapons[i - 1].index]
-            # import pdb; pdb.set_trace()
             srs = srs.append(weapon)
 
 
