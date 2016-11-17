@@ -1,0 +1,957 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TMouvementHandlerHelicopterDescriptors>
+  <TMouvementHandlerHelicopterDescriptor id="31044">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>16380</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4300</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>140</RotorArea>
+    <TorqueManoeuvrability>110</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31060">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>14560</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4300</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>140</RotorArea>
+    <TorqueManoeuvrability>110</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31109">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>18200</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4300</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>140</RotorArea>
+    <TorqueManoeuvrability>110</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31120">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>14560</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>3</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>8500</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>168</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>1560</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31140">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13520</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>1800</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>85</RotorArea>
+    <TorqueManoeuvrability>120</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31152">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>90</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>8000</Mass>
+    <MaxInclination>80</MaxInclination>
+    <RotorArea>177</RotorArea>
+    <TorqueManoeuvrability>80</TorqueManoeuvrability>
+    <UpwardSpeed>3120</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31161">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15080</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>1800</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>85</RotorArea>
+    <TorqueManoeuvrability>120</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31171">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>110</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>5300</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>128</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31186">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>10920</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>1800</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>85</RotorArea>
+    <TorqueManoeuvrability>120</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31194">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>10660</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.2</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4100</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>153</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <WeaponSabordAngle>1.570796</WeaponSabordAngle>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31201">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>11440</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>3000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>90</RotorArea>
+    <TorqueManoeuvrability>110</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31207">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>12480</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>2500</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>80</RotorArea>
+    <TorqueManoeuvrability>120</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31231">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>11440</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.2</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4100</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>153</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31238">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>11440</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.2</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4100</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>153</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <WeaponSabordAngle>1.570796</WeaponSabordAngle>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31255">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>16640</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>40</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>22000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>520</RotorArea>
+    <TorqueManoeuvrability>30</TorqueManoeuvrability>
+    <UpwardSpeed>1560</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31266">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>40</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>22000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>520</RotorArea>
+    <TorqueManoeuvrability>30</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <WeaponSabordAngle>1.570796</WeaponSabordAngle>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31274">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>14040</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>40</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>22000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>520</RotorArea>
+    <TorqueManoeuvrability>30</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <WeaponSabordAngle>1.570796</WeaponSabordAngle>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31280">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>14040</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>40</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>22000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>520</RotorArea>
+    <TorqueManoeuvrability>30</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31303">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>16640</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>40</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>50000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>800</RotorArea>
+    <TorqueManoeuvrability>30</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31310">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>110</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>5300</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>128</RotorArea>
+    <TorqueManoeuvrability>80</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31317">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>40</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>22000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>520</RotorArea>
+    <TorqueManoeuvrability>30</TorqueManoeuvrability>
+    <UpwardSpeed>1560</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31328">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>16120</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>1800</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>85</RotorArea>
+    <TorqueManoeuvrability>120</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31340">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>16120</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>110</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>1800</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>85</RotorArea>
+    <TorqueManoeuvrability>120</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31373">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>60</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>12000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>380</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31397">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>14040</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>11000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>235</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31413">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>17160</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>3</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>12000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>225</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>1560</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31421">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>16120</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>3</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>12000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>225</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>1560</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31435">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>110</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>5300</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>128</RotorArea>
+    <TorqueManoeuvrability>80</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <WeaponSabordAngle>1.570796</WeaponSabordAngle>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31446">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>16640</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>110</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>5300</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>128</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31492">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13520</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>1800</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>85</RotorArea>
+    <TorqueManoeuvrability>120</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31517">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>10000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>210</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3250</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>1560</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31523">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>10400</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>3700</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>150</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>1560</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31531">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>17160</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>11000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>235</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31542">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>40</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>50000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>800</RotorArea>
+    <TorqueManoeuvrability>30</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31567">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>10400</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>3700</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>150</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>1560</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <WeaponSabordAngle>1.570796</WeaponSabordAngle>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31702">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>9360</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>60</CyclicManoeuvrability>
+    <GFactorLimit>1.8</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>12000</Mass>
+    <MaxInclination>60</MaxInclination>
+    <RotorArea>380</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31815">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>9360</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>3.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>1800</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>85</RotorArea>
+    <TorqueManoeuvrability>120</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31840">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>14560</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>3000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>90</RotorArea>
+    <TorqueManoeuvrability>110</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31853">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>12480</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>130</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>3000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>90</RotorArea>
+    <TorqueManoeuvrability>110</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31888">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>90</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>7000</Mass>
+    <MaxInclination>80</MaxInclination>
+    <RotorArea>177</RotorArea>
+    <TorqueManoeuvrability>80</TorqueManoeuvrability>
+    <UpwardSpeed>3120</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <WeaponSabordAngle>1.570796</WeaponSabordAngle>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31908">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15080</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>3</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>12000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>225</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>1560</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31916">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>10000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>210</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3250</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31921">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>7000</Mass>
+    <MaxInclination>75</MaxInclination>
+    <RotorArea>177</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31943">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13000</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>90</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>7000</Mass>
+    <MaxInclination>80</MaxInclination>
+    <RotorArea>177</RotorArea>
+    <TorqueManoeuvrability>80</TorqueManoeuvrability>
+    <UpwardSpeed>3120</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31953">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13520</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>90</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>7000</Mass>
+    <MaxInclination>80</MaxInclination>
+    <RotorArea>177</RotorArea>
+    <TorqueManoeuvrability>80</TorqueManoeuvrability>
+    <UpwardSpeed>3120</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="31995">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>14560</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>3</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>12000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>225</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>1560</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="32008">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>10660</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.2</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4100</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>153</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="32018">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>11440</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.2</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4100</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>153</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>1300</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <WeaponSabordAngle>1.570796</WeaponSabordAngle>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="32024">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>11440</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.2</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4100</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>153</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>1300</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="32071">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>11440</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>110</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>5300</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>128</RotorArea>
+    <TorqueManoeuvrability>80</TorqueManoeuvrability>
+    <UpwardSpeed>2600</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="32078">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>11440</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>80</CyclicManoeuvrability>
+    <GFactorLimit>2.2</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>4100</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>153</RotorArea>
+    <TorqueManoeuvrability>60</TorqueManoeuvrability>
+    <UpwardSpeed>2080</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2080</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="32090">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13520</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>100</CyclicManoeuvrability>
+    <GFactorLimit>3</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>12000</Mass>
+    <MaxInclination>89</MaxInclination>
+    <RotorArea>225</RotorArea>
+    <TorqueManoeuvrability>100</TorqueManoeuvrability>
+    <UpwardSpeed>3900</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>1560</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+  <TMouvementHandlerHelicopterDescriptor id="32131">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>15600</Maxspeed>
+    <UnitMovingType>6</UnitMovingType>
+    <CyclicManoeuvrability>90</CyclicManoeuvrability>
+    <GFactorLimit>2.5</GFactorLimit>
+    <LateralSpeed>2600</LateralSpeed>
+    <Mass>7000</Mass>
+    <MaxInclination>80</MaxInclination>
+    <RotorArea>177</RotorArea>
+    <TorqueManoeuvrability>80</TorqueManoeuvrability>
+    <UpwardSpeed>3120</UpwardSpeed>
+    <CriticalEffectModule>97 : 31036 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>1040</MaxDeceleration>
+    <WeaponSabordAngle>null</WeaponSabordAngle>
+  </TMouvementHandlerHelicopterDescriptor>
+</TMouvementHandlerHelicopterDescriptors>

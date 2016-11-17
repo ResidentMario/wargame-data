@@ -1,0 +1,972 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPositionModuleDescriptors>
+  <TPositionModuleDescriptor id="26396">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12705 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>13000</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26512">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>520</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36795 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26565">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>520</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36848 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26649">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>130</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <MustUpdateZoneIndice>True</MustUpdateZoneIndice>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36929 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26663">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>130</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36929 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26745">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>390</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36795 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26754">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>390</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36848 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26808">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>390</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 37040 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26821">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>780</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36795 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="26837">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>780</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 37040 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="27026">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>520</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <MustUpdateZoneIndice>True</MustUpdateZoneIndice>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36795 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="27050">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>780</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36848 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="27295">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>520</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 37040 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="27395">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>390</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <MustUpdateZoneIndice>True</MustUpdateZoneIndice>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36795 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="27957">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>780</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <MustUpdateZoneIndice>True</MustUpdateZoneIndice>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 36795 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="33522">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>520</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,1560</RelativeScanningPosition>
+    <CameraFollower>136 : 36848 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="33556">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>520</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <MustUpdateZoneIndice>True</MustUpdateZoneIndice>
+    <RelativeScanningPosition>0,0,1560</RelativeScanningPosition>
+    <CameraFollower>136 : 36848 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="33842">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>7800</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>1040</NearGroundFlyingAltitude>
+    <CameraFollower>136 : 43433 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="34138">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <MustUpdateZoneIndice>True</MustUpdateZoneIndice>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>7800</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>1040</NearGroundFlyingAltitude>
+    <CameraFollower>136 : 43433 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="35083">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>20800</LowAltitudeFlyingAltitude>
+    <CameraFollower>136 : 44488 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <ClampInWorld>null</ClampInWorld>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="35101">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>36400</LowAltitudeFlyingAltitude>
+    <CameraFollower>136 : 44488 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <ClampInWorld>null</ClampInWorld>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="35114">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>31200</LowAltitudeFlyingAltitude>
+    <CameraFollower>136 : 44488 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <ClampInWorld>null</ClampInWorld>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="35417">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <AddToHexagonMap>True</AddToHexagonMap>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>78000</LowAltitudeFlyingAltitude>
+    <CameraFollower>136 : 44488 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <ClampInWorld>null</ClampInWorld>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="36794">
+    <ControllerName>PositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>520</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="36806">
+    <ControllerName>FirePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>2600</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="36928">
+    <ControllerName>PositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>130</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="37000">
+    <ControllerName>PositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>390</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="37047">
+    <ControllerName>PositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>780</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="43432">
+    <ControllerName>PositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>7800</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>1040</NearGroundFlyingAltitude>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="44487">
+    <ControllerName>PositionController</ControllerName>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>20800</LowAltitudeFlyingAltitude>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="44500">
+    <ControllerName>PositionController</ControllerName>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>36400</LowAltitudeFlyingAltitude>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="44511">
+    <ControllerName>PositionController</ControllerName>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>31200</LowAltitudeFlyingAltitude>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="44786">
+    <ControllerName>PositionController</ControllerName>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1560</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <LowAltitudeFlyingAltitude>78000</LowAltitudeFlyingAltitude>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="62773">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>2600</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="77378">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>9100</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="77393">
+    <ControllerName>PositionController</ControllerName>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>130</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 81303 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="77439">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>7800</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="77456">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>13000</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="77713">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>3900</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="77719">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>6500</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="78358">
+    <ControllerName>FirePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>13000</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="78589">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>5200</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="79360">
+    <ControllerName>FirePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>7800</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="79602">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <ClampOutMap>True</ClampOutMap>
+    <GfxDescriptorPorteur>43 : 12707 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>130</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <CameraFollower>136 : 81303 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="80094">
+    <ControllerName>FirePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>15600</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="83498">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>10400</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="84712">
+    <ControllerName>FirePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1300</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="84726">
+    <ControllerName>FirePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>5200</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="84899">
+    <ControllerName>SmokePositionController</ControllerName>
+    <ClampInWorld>True</ClampInWorld>
+    <GfxDescriptorPorteur>43 : 12706 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>260</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="85684">
+    <ControllerName>PositionController</ControllerName>
+    <GfxDescriptorPorteur>43 : 12705 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <Radius>null</Radius>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="85709">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <GfxDescriptorPorteur>43 : 85053 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1300</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <HasNearlyNullBBox>True</HasNearlyNullBBox>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="85712">
+    <ControllerName>VictoryPositionController</ControllerName>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <GfxDescriptorPorteur>null</GfxDescriptorPorteur>
+    <Radius>null</Radius>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <PorteurMustBeVisible>null</PorteurMustBeVisible>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="86361">
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <GfxDescriptorPorteur>43 : 85053 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>1300</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <RelativeScanningPosition>0,0,520</RelativeScanningPosition>
+    <HasNearlyNullBBox>True</HasNearlyNullBBox>
+    <CameraFollower>136 : 85914 (True) - TGfxDescriptorCameraFollower</CameraFollower>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="86364">
+    <ControllerName>FirePositionController</ControllerName>
+    <GfxDescriptorPorteur>43 : 85053 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>2600</Radius>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <PorteurMustBeVisible>null</PorteurMustBeVisible>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="86370">
+    <ControllerName>SmokePositionController</ControllerName>
+    <GfxDescriptorPorteur>43 : 85053 (True) - TGfxDescriptorPorteur</GfxDescriptorPorteur>
+    <Radius>2600</Radius>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <PorteurMustBeVisible>null</PorteurMustBeVisible>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="86381">
+    <ControllerName>FirePositionController</ControllerName>
+    <Radius>1300</Radius>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <InGeoDb>null</InGeoDb>
+    <ClampInWorld>null</ClampInWorld>
+    <GfxDescriptorPorteur>null</GfxDescriptorPorteur>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+    <_ShortDatabaseName>null</_ShortDatabaseName>
+  </TPositionModuleDescriptor>
+  <TPositionModuleDescriptor id="95262">
+    <_ShortDatabaseName>PositionModuleDescriptor</_ShortDatabaseName>
+    <ControllerName>PositionController</ControllerName>
+    <InGeoDb>True</InGeoDb>
+    <PorteurMustBeVisible>True</PorteurMustBeVisible>
+    <ClampInWorld>null</ClampInWorld>
+    <GfxDescriptorPorteur>null</GfxDescriptorPorteur>
+    <Radius>null</Radius>
+    <AddToHexagonMap>null</AddToHexagonMap>
+    <RelativeScanningPosition>null</RelativeScanningPosition>
+    <CameraFollower>null</CameraFollower>
+    <MustUpdateZoneIndice>null</MustUpdateZoneIndice>
+    <LowAltitudeFlyingAltitude>null</LowAltitudeFlyingAltitude>
+    <NearGroundFlyingAltitude>null</NearGroundFlyingAltitude>
+    <ClampOutMap>null</ClampOutMap>
+    <HasNearlyNullBBox>null</HasNearlyNullBBox>
+  </TPositionModuleDescriptor>
+</TPositionModuleDescriptors>

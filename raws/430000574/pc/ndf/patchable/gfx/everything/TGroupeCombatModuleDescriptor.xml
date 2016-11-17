@@ -1,0 +1,2775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TGroupeCombatModuleDescriptors>
+  <TGroupeCombatModuleDescriptor id="24434">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 33830 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 33832 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24446">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 33838 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 33839 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24457">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 33845 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 33846 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24464">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 33851 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 33852 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24671">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 33996 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 33997 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24676">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34002 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34003 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24681">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34008 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34009 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24686">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34014 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34015 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24691">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34020 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34021 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24697">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34026 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34027 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24705">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34032 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34033 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24712">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34038 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34039 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24719">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34044 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34045 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24726">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34050 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34051 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24734">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34056 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34057 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24739">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34062 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34063 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24746">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34068 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34069 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24809">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34117 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34118 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24814">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34123 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34124 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24819">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34129 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34130 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24824">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34135 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34136 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24829">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34141 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34142 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="24887">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34179 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34180 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25412">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34555 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34556 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25424">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34565 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34566 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25429">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34571 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34572 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25448">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34586 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34587 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25469">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34604 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34605 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25521">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34641 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34642 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25533">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34652 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34653 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25539">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34658 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34659 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25544">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34664 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34665 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25549">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34670 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34671 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25554">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34676 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34677 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25559">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34682 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34683 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25564">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34688 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34689 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25576">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34699 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34700 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25581">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34705 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34706 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25586">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34711 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34712 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25592">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34717 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34718 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25597">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34723 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34724 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25602">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34729 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34730 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25607">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34735 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34736 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25612">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34741 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34742 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25777">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34869 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34870 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25782">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34875 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34876 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25787">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34881 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34882 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25792">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34887 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34888 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25864">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34956 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34957 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25869">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 34962 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 34963 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25938">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35023 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35024 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25948">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35034 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35035 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25953">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35040 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35041 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25958">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35046 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35047 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25963">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35052 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35053 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25975">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35063 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35064 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25985">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35073 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35074 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25990">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35079 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35080 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="25995">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35085 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35086 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26000">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35091 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35092 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26146">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35196 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35197 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26151">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35202 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35203 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26156">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35208 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35209 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26161">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35214 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35215 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26166">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35220 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35221 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26202">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35248 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35249 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26217">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35262 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35263 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26271">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35303 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35304 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26276">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35309 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35310 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26281">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35315 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35316 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26297">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35328 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35329 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26302">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35334 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35335 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26313">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35345 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35346 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26318">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35351 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35352 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26323">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35357 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35358 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26328">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35363 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35364 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26333">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35369 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35370 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26338">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35375 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35376 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26379">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35403 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35404 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26384">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35409 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35410 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26389">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35415 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35416 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26394">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35421 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35422 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26399">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35427 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35428 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26404">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35433 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35434 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26409">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35439 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35440 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26459">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35479 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35480 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26464">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35485 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35486 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26469">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35491 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35492 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26485">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35504 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35505 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26490">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35510 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35511 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26503">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35521 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35522 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26508">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35527 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35528 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26513">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35533 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35534 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26518">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35539 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35540 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26523">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35545 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35546 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26528">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35551 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35552 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26533">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35557 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35558 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26538">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35563 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35564 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26543">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35569 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35570 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26548">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35575 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35576 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26553">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35581 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35582 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26572">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35599 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35600 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26777">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35780 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35781 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26801">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35799 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35800 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26806">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35805 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35806 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26811">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35811 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35812 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26816">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35817 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35818 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26821">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35823 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35824 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26871">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35872 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35873 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26907">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35902 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35903 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26912">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35908 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35909 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26917">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35914 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35915 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26922">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35920 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35921 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="26986">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 35972 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 35973 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="27031">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36009 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36010 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="27036">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36015 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36016 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="27041">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36021 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36022 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="27046">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36027 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36028 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="27139">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36120 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36121 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="27897">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36753 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36754 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="27945">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36792 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36793 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28056">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36879 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36880 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28061">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36885 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36886 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28066">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36891 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36892 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28071">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36897 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36898 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28076">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36903 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36904 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28086">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36914 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36915 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28091">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36920 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36921 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28096">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36926 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36927 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28101">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36932 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36933 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28106">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36938 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36939 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28118">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36949 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36950 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28131">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36961 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36962 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28136">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36967 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36968 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28141">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36973 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36974 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28146">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36979 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36980 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28159">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36990 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36991 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28164">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 36996 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 36997 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28169">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37002 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37003 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28174">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37008 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37009 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28209">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37038 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37039 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28214">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37044 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37045 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28219">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37050 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37051 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28292">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37110 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37111 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28309">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37124 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37125 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28314">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37130 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37131 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28336">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37150 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37151 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28341">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37156 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37157 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28374">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37185 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37186 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28415">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37220 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37221 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28420">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37226 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37227 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28425">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37232 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37233 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28430">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37238 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37239 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28445">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37252 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37253 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28450">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37258 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37259 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28455">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37264 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37265 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28460">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37270 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37271 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28471">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37281 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37282 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28476">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37287 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37288 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28481">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37293 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37294 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28503">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37310 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37311 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28542">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37344 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37345 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28547">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37350 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37351 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28552">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37356 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37357 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28557">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37362 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37363 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28562">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37368 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37369 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28587">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37390 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37391 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28592">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37396 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37397 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28597">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37402 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37403 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28611">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37415 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37416 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28626">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37431 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37432 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28631">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37437 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37438 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28636">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37443 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37444 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28641">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37449 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37450 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28646">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37455 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37456 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28651">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37461 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37462 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28673">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37481 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37482 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28678">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37487 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37488 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28683">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37493 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37494 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28688">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37499 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37500 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28693">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37505 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37506 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28698">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37511 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37512 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28703">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37517 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37518 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28708">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37523 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37524 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28713">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37529 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37530 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28728">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37545 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37546 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28748">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37561 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37562 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28758">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37571 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37572 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28763">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37577 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37578 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28768">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37583 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37584 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28815">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37623 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37624 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28821">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37629 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37630 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28861">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37663 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37664 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28976">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37757 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37758 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="28996">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37774 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37775 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29001">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37780 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37781 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29006">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37786 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37787 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29011">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37792 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37793 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29027">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37806 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37807 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29032">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37812 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37813 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29042">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37823 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37824 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29047">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37829 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37830 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29073">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37854 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37855 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29078">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37859 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37860 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29083">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37865 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37866 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29088">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37871 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37872 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29093">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37878 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37879 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29098">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37883 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37884 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29103">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37890 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37891 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29123">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37911 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37912 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29128">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37917 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37918 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29133">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37923 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37924 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29138">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37929 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37930 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29143">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37935 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37936 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29169">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37954 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37955 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29183">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 37966 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 37967 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29224">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38000 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38001 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29229">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38006 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38007 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29234">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38012 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38013 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="29624">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38374 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38375 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30069">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38738 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38739 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30074">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38744 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38745 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30079">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38750 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38751 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30084">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38756 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38757 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30089">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38762 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38763 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30094">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38768 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38769 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30099">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38774 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38775 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30104">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38780 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38781 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30109">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38786 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38787 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30114">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38792 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38793 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30119">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38798 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38799 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30124">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38804 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38805 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30129">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38810 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38811 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30134">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38816 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38817 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30139">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38822 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38823 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30144">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38828 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38829 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30149">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38834 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38835 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30154">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38840 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38841 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30159">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38846 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38847 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30164">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38852 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38853 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30169">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38858 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38859 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30174">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38864 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38865 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30179">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38870 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38871 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30268">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 38944 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 38945 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30332">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 39001 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 39002 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30347">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 39014 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 39015 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30352">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 39020 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 39021 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30357">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 39026 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 39027 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30391">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 39054 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 39055 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30474">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 39123 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 39124 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30479">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 39129 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 39130 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+  <TGroupeCombatModuleDescriptor id="30484">
+    <ControllerName>GroupeCombatController</ControllerName>
+    <BehaviourDescriptor>146 : 39135 (False) - TUniteBehaviourDescriptor</BehaviourDescriptor>
+    <GfxPorteur>43 : 33831 (True) - TGfxDescriptorPorteur</GfxPorteur>
+    <GfxPorteurGhost>43 : 12751 (True) - TGfxDescriptorPorteur</GfxPorteurGhost>
+    <GfxWeaponModels>147 : 39136 (True) - TWeaponModelHolder</GfxWeaponModels>
+    <PositionModule>Position</PositionModule>
+    <WeaponManagerModule>WeaponManager</WeaponManagerModule>
+    <CadavreModule>Cadavre</CadavreModule>
+    <DamageModule>Damage</DamageModule>
+  </TGroupeCombatModuleDescriptor>
+</TGroupeCombatModuleDescriptors>
