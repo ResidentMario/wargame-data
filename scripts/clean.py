@@ -428,9 +428,21 @@ def main():
 
     def hashquery(uhash):
         if pd.notnull(uhash):
-            return hashes.query("Hash == '{0}'".format(uhash)).iloc[0]['String']
+            try:
+                return hashes.query("Hash == '{0}'".format(uhash)).iloc[0]['String']
+            except IndexError:
+                print("WARNING: Hash {0} failed to match!".format(uhash))
+                return np.nan
         else:
             return np.nan
+
+    # for h in units['Weapon{0}Name'.format(1)]:
+    #     try:
+    #         a = hashquery(h)
+    #         pass
+    #     except IndexError:
+    #         import pdb; pdb.set_trace()
+
     for i in range(1, 12):
         units['Weapon{0}Name'.format(i)] = units['Weapon{0}Name'.format(i)].map(hashquery)
         units['Weapon{0}TypeArme'.format(i)] = units['Weapon{0}TypeArme'.format(i)].map(hashquery)
