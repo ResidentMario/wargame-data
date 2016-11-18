@@ -236,8 +236,7 @@ For further exposition on the data, refer to the [Wargame Internal Values Manual
 the in-game display. This data export thus constitutes a best attempt, and is quite possibly incomplete in some sense.
 * The `[AoE]` tag is attached to weapons in a scattershot and illogical manner (for instance, have you ever wondered
 by HE Bombs do not have an `AoE` tag?). Thus in this data export, it is not always attached correctly and should be
-treated with a grain of salt.
-* Datasets are provided in `windows-1252` encoding (this matches the format the raw data is generated in), **not** `utf-8`.
+treated with a grain of salt. 
 
 ## Build Process
 ### Overview
