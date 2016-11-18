@@ -237,6 +237,7 @@ the in-game display. This data export thus constitutes a best attempt, and is qu
 * The `[AoE]` tag is attached to weapons in a scattershot and illogical manner (for instance, have you ever wondered
 by HE Bombs do not have an `AoE` tag?). Thus in this data export, it is not always attached correctly and should be
 treated with a grain of salt. 
+* There is an error in the `MaxDeceleration` field. The actual value is 52 times what is reported. Sorry.
 
 ## Build Process
 ### Overview
