@@ -236,8 +236,12 @@ For further exposition on the data, refer to the [Wargame Internal Values Manual
 the in-game display. This data export thus constitutes a best attempt, and is quite possibly incomplete in some sense.
 * The `[AoE]` tag is attached to weapons in a scattershot and illogical manner (for instance, have you ever wondered
 by HE Bombs do not have an `AoE` tag?). Thus in this data export, it is not always attached correctly and should be
-treated with a grain of salt. 
+treated with a grain of salt.
+
+The following errors will be repaired the next time the data is exported:
+
 * There is an error in the `MaxDeceleration` field. The actual value is 52 times what is reported. Sorry.
+* There is an error in the `IsCommandUnit` field. This is always set to `True`, even when it shouldn't be. Sorry.
 
 ## Build Process
 ### Overview
