@@ -1,0 +1,2451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TMouvementHandlerLandVehicleDescriptors>
+  <TMouvementHandlerLandVehicleDescriptor id="30945">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="30964">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="30977">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="30991">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31003">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31020">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31028">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31056">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31068">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1560</Maxspeed>
+    <UnitMovingType>1</UnitMovingType>
+    <TempsDemiTour>0.1</TempsDemiTour>
+    <MaxAcceleration>4030</MaxAcceleration>
+    <MaxDeceleration>4030</MaxDeceleration>
+    <VehicleSubType>2</VehicleSubType>
+    <CriticalEffectModule>97 : 31059 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31080">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1950</Maxspeed>
+    <UnitMovingType>1</UnitMovingType>
+    <TempsDemiTour>0.1</TempsDemiTour>
+    <MaxAcceleration>4030</MaxAcceleration>
+    <MaxDeceleration>4030</MaxDeceleration>
+    <VehicleSubType>2</VehicleSubType>
+    <CriticalEffectModule>97 : 31059 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31105">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31127">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31136">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31153">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4680</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.6666667</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31162">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31170">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31179">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31200">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31214">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31233">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4420</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.7647059</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31242">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4420</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.7647059</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31275">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31305">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31325">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31336">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31372">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1170</Maxspeed>
+    <UnitMovingType>1</UnitMovingType>
+    <TempsDemiTour>0.1</TempsDemiTour>
+    <MaxAcceleration>4030</MaxAcceleration>
+    <MaxDeceleration>4030</MaxDeceleration>
+    <VehicleSubType>2</VehicleSubType>
+    <CriticalEffectModule>97 : 31059 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31387">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>1</UnitMovingType>
+    <TempsDemiTour>0.1</TempsDemiTour>
+    <MaxAcceleration>4030</MaxAcceleration>
+    <MaxDeceleration>4030</MaxDeceleration>
+    <VehicleSubType>2</VehicleSubType>
+    <CriticalEffectModule>97 : 31059 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31432">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31474">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31539">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31547">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31553">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>1.5</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31560">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4680</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.6666667</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31586">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31593">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31607">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.5</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31620">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3900</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31627">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.307692</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31643">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.375</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31660">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.375</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31672">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31686">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31742">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31770">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31777">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31794">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.727273</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31800">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.727273</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31812">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4940</Maxspeed>
+    <UnitMovingType>2</UnitMovingType>
+    <SpeedBonusOnRoad>0.5789474</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 31808 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31874">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1560</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>2</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31880">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31938">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31965">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="31984">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.307692</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32012">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32018">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>1.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32024">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4680</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.6666667</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32047">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32053">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.727273</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32065">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.307692</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32077">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.307692</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32088">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32198">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32232">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1560</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>2.666667</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32269">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32286">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32306">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1820</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>2.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32315">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32325">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4680</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.6666667</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32331">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5720</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.3636364</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32357">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32365">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1820</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>2.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32379">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3900</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.4666667</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32475">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32485">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1820</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>2.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32492">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32500">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32508">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32514">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32519">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.727273</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32540">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32560">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32587">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3900</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.4666667</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32683">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32695">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32727">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32756">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32773">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2080</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.75</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32788">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32817">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32824">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>2</UnitMovingType>
+    <SpeedBonusOnRoad>2</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 31808 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32883">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32892">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1820</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>2.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32906">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4940</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.5789474</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32927">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>2</UnitMovingType>
+    <SpeedBonusOnRoad>1.5</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 31808 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32933">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>2</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 31808 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32986">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32993">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4940</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.1578947</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="32999">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.375</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33029">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.375</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33036">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33043">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33050">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3900</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.4666667</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33074">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33090">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4940</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5789474</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33163">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33202">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33254">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5460</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.4285714</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33269">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4680</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.6666667</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33291">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33371">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33378">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33385">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.5</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33393">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33401">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33417">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33464">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33558">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33593">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2080</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.75</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33635">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33749">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33761">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33848">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33864">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2080</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>1.75</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="33960">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4680</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.6666667</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34123">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>2.333333</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34149">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4680</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.6666667</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34184">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4940</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5789474</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34209">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1820</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>2.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34222">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34795">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.1</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34868">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34874">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="34922">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35069">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2080</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.75</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35101">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35178">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>2</UnitMovingType>
+    <SpeedBonusOnRoad>1.307692</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 31808 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35249">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2080</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.75</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35289">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35323">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.375</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35340">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4940</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5789474</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35401">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>2</UnitMovingType>
+    <SpeedBonusOnRoad>1.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 31808 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35526">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35538">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3900</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.4666667</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35544">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35711">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>1.5</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35805">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35862">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.8333333</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35883">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4680</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.6666667</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35889">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.875</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="35928">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="36031">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2340</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>1.444444</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="36586">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>1820</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>2.142857</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37011">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37057">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>7</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37139">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5720</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.3636364</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37174">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>2</UnitMovingType>
+    <SpeedBonusOnRoad>1.5</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 31808 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37179">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>2</UnitMovingType>
+    <SpeedBonusOnRoad>2</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 31808 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37206">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4160</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.375</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37269">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37526">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1560</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37703">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>5200</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.5</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37723">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>4940</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>0.5789474</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37729">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3380</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>0.6923077</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37788">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2080</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.75</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37795">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>2</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37811">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <SpeedBonusOnRoad>2</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37942">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2600</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1.2</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1040</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="37974">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1</SpeedBonusOnRoad>
+    <TempsDemiTour>3</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="38014">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3640</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <SpeedBonusOnRoad>0.5714286</SpeedBonusOnRoad>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="38047">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="38123">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>2860</Maxspeed>
+    <UnitMovingType>5</UnitMovingType>
+    <SpeedBonusOnRoad>1</SpeedBonusOnRoad>
+    <TempsDemiTour>6</TempsDemiTour>
+    <MaxAcceleration>1950</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <VehicleSubType>null</VehicleSubType>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="38840">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>6240</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>0.25</SpeedBonusOnRoad>
+    <TempsDemiTour>2</TempsDemiTour>
+    <MaxAcceleration>2080</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39108">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>9100</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39116">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>10920</Maxspeed>
+    <UnitMovingType>8</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>4550</MaxAcceleration>
+    <MaxDeceleration>9100</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30959 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39126">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>28600</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>4550</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39137">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>4550</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>16</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39149">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>20800</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>10</TempsDemiTour>
+    <MaxAcceleration>2730</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39159">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>23400</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>4550</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39171">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>23400</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>15</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39181">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13000</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>16</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39190">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>3640</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>16</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39201">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>28600</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>20</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39211">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39219">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>20800</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>16</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39228">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>19500</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>10</TempsDemiTour>
+    <MaxAcceleration>2600</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39238">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>13000</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>10</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>16</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39246">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>19500</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>15</TempsDemiTour>
+    <MaxAcceleration>910</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39256">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>26000</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>10</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39266">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>23400</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>15</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39277">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>31200</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2730</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39286">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>23400</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>16</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39293">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>26000</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>4550</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39304">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>36400</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>4550</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39313">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>26000</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>10</TempsDemiTour>
+    <MaxAcceleration>2730</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39323">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>18200</Maxspeed>
+    <UnitMovingType>7</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>3</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39336">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>18200</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>16</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39348">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>26000</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>20</TempsDemiTour>
+    <MaxAcceleration>910</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39357">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>33800</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>10</TempsDemiTour>
+    <MaxAcceleration>2730</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>24</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39119 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39375">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>23400</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>15</TempsDemiTour>
+    <MaxAcceleration>1820</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39384">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>23400</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>10</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39393">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>19500</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>5</TempsDemiTour>
+    <MaxAcceleration>2210</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <CriticalEffectModule>97 : 39132 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39399">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>28600</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>15</TempsDemiTour>
+    <MaxAcceleration>2600</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="39415">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>23400</Maxspeed>
+    <UnitMovingType>9</UnitMovingType>
+    <TempsDemiTour>20</TempsDemiTour>
+    <MaxAcceleration>910</MaxAcceleration>
+    <MaxDeceleration>2210</MaxDeceleration>
+    <VehicleSubType>4</VehicleSubType>
+    <TerrainsToIgnoreMask>26</TerrainsToIgnoreMask>
+    <CriticalEffectModule>97 : 39165 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <SpeedBonusOnRoad>null</SpeedBonusOnRoad>
+  </TMouvementHandlerLandVehicleDescriptor>
+  <TMouvementHandlerLandVehicleDescriptor id="102861">
+    <ControllerName>MouvementHandlerController</ControllerName>
+    <Maxspeed>3120</Maxspeed>
+    <UnitMovingType>3</UnitMovingType>
+    <SpeedBonusOnRoad>1.5</SpeedBonusOnRoad>
+    <TempsDemiTour>4</TempsDemiTour>
+    <MaxAcceleration>1300</MaxAcceleration>
+    <MaxDeceleration>2600</MaxDeceleration>
+    <VehicleSubType>1</VehicleSubType>
+    <CriticalEffectModule>97 : 30933 (True) - TCriticalEffectModuleDescriptor</CriticalEffectModule>
+    <TerrainsToIgnoreMask>null</TerrainsToIgnoreMask>
+  </TMouvementHandlerLandVehicleDescriptor>
+</TMouvementHandlerLandVehicleDescriptors>
