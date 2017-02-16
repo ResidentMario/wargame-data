@@ -232,7 +232,9 @@ def main():
         'TCH': 'Czechoslavakia',
         'POL': 'Poland',
         'CHI': 'China',
-        'NK': 'North Korea'
+        'NK': 'North Korea',
+        'YUG': 'Yugoslavia',
+        'FIN': 'Finland'
     }
 
     units['MotherCountry'] = units['MotherCountry'].map(mother_country)
