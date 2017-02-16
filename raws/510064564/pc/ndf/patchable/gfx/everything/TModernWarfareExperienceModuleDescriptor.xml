@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TModernWarfareExperienceModuleDescriptors>
+  <TModernWarfareExperienceModuleDescriptor id="30938">
+    <ControllerName>ExperienceController</ControllerName>
+    <CanWinExperience>True</CanWinExperience>
+    <ExperienceGainBySecond>0.1</ExperienceGainBySecond>
+    <KillExperienceBonus>2.5</KillExperienceBonus>
+  </TModernWarfareExperienceModuleDescriptor>
+  <TModernWarfareExperienceModuleDescriptor id="31333">
+    <ControllerName>ExperienceController</ControllerName>
+    <ExperienceGainBySecond>0.1</ExperienceGainBySecond>
+    <KillExperienceBonus>2.5</KillExperienceBonus>
+    <CanWinExperience>null</CanWinExperience>
+  </TModernWarfareExperienceModuleDescriptor>
+</TModernWarfareExperienceModuleDescriptors>
