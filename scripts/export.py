@@ -18,6 +18,7 @@ parser.add_argument("version", help="The version of Wargame: Red Dragon to be pr
                                     "subfolder of the filepath above, whose contents are generated using the "
                                     "Wargame XML Exporter tool.")
 parser.add_argument("output", help="A filepath to the destination folder this script will write its output to.")
+parser.add_argument('--fobs', dest='fobs',  action='store_true', help="enable export FOB buildings to seperate csv file")
 
 
 def get_id(table):
@@ -108,6 +109,37 @@ def get_token(table, attr, lookup):
     return lookup[lookup['Hash'] == hash].iloc[0]['String']
 
 
+def get_deck_id(unit, xmlpaths):
+    unit_id = unit.get("id")
+    if unit.find("Nationalite").text == "1":
+        table = "PactUnitIds"
+    else:
+        table = "OtanUnitIds"
+    for element in xmlpaths['TShowRoomDeckSerializer.xml'].findall(".//{0}/*".format(table)):
+        if element.text.split()[5] == unit_id:
+            return element.text.split()[1]
+
+
+def serialize_fobs(fob, xmlpaths, localization):
+    srs = pd.Series()
+    srs['ID'] = get_id(fob)
+    srs['DeckID'] = get_deck_id(fob, xmlpaths)
+
+    for attr in ["ClassNameForDebug", "Category", "Factory", "Nationalite", "_ShortDatabaseName", "MotherCountry"]:
+        srs[attr] = get_attribute(fob, attr)
+    for attr in ["ProductionPrice", "MaxDeployableAmount", "UnitTypeTokens"]:
+        srs[attr] = get_collection(fob, attr)
+
+    # for attr in ["SupplyCapacity", "DeploymentDuration", "WithdrawalDuration", "SupplyPriority"]:
+    #     srs[attr] = get_attribute(supply, attr)
+
+    if "Building_FOB" in srs["_ShortDatabaseName"]:
+        # null in non fob enties
+        srs["NameInMenuToken"] = get_attribute(fob, "NameInMenuToken")
+        srs["NameInMenu"] = get_token(fob, "NameInMenuToken", localization)
+        return srs
+
+
 def serialize_unit(unit, xmlpaths, localization):
     srs = pd.Series()
 
@@ -115,6 +147,7 @@ def serialize_unit(unit, xmlpaths, localization):
     # ID #
     ######
     srs['ID'] = get_id(unit)
+    srs['DeckID'] = get_deck_id(unit, xmlpaths)
 
     ########################
     # TOP-LEVEL ATTRIBUTES #
@@ -364,6 +397,11 @@ def main():
     subprocess.run(["mkdir", (parser.parse_args().output + "/" + parser.parse_args().version).replace("/", "\\")],
                    shell=True)
     df.to_csv(parser.parse_args().output + "/" + parser.parse_args().version +  "/raw_data.csv")
+
+    if parser.parse_args().fobs:
+        fobs = xmlpaths['TUniteDescriptor.xml'].findall("TUniteDescriptor")
+        fb = pd.concat([serialize_fobs(fob, xmlpaths, localization) for fob in tqdm(fobs)], axis=1).T
+        fb.to_csv(parser.parse_args().output + "/" + parser.parse_args().version +  "/raw_fobs.csv")
 
 if __name__ == "__main__":
     main()
