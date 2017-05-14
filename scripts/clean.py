@@ -266,7 +266,7 @@ def main():
     units = units.rename(columns={'TempsDemiTour': 'TimeHalfTurn'})
     units = units.drop(['_ShortDatabaseName', 'StickToGround', 'ManageUnitOrientation',
                         'IconeType', 'PositionInMenu', 'NameInMenuToken', 'AliasName', 'Category',
-                        'AcknowUnitType', 'TypeForAcknow', 'Nationalite', 'Factory',
+                        'AcknowUnitType', 'TypeForAcknow', 'Factory',
                         'CoutEtoile', 'UnitTypeTokens', 'UnitMovingType', 'Key',
                         'TypeUnitValue', 'UnitInfoJaugeType',
                         'SpeedBonusOnRoad', 'VehicleSubType', 'TerrainsToIgnoreMask',
