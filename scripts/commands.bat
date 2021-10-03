@@ -12,7 +12,7 @@ SET rawsdir=%wargamedata%\raws
 SET datadir=%wargamedata%\data
 
 :: SET versions=(510053208 510064564)
-SET versions=(510064564)
+SET versions=(58710)
 
 FOR %%I IN %versions% DO (
     REM Use /Q for interactive mode
