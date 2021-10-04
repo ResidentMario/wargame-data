@@ -386,11 +386,12 @@ def main():
     xmlpaths = dict()
     for root, dirs, files in os.walk(fullpath):
         for name in files:
-            xmlpaths[name] = etree.parse(os.path.join(root, name))
+            if os.path.splitext(name)[1] == '.xml' :
+                xmlpaths[name] = etree.parse(os.path.join(root, name))
 
     localizationpath = "{0}/{1}/{2}".format(parser.parse_args().path, parser.parse_args().version,
                                      "ZZ_Win/pc/localisation/us/localisation/unites_fixed.csv").replace("/", "\\")
-    localization = pd.read_csv(localizationpath, encoding='windows-1252', index_col=0)
+    localization = pd.read_csv(localizationpath, encoding='utf-8', index_col=0)
     units = xmlpaths['TUniteAuSolDescriptor.xml'].findall("TUniteAuSolDescriptor")
     # test = list(units)[:20]
     df = pd.concat([serialize_unit(unit, xmlpaths, localization) for unit in tqdm(units)], axis=1).T

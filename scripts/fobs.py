@@ -25,10 +25,9 @@ tab = {
     10: 'REC',
     11: 'HEL',
     12: 'SHP',
-    13: 'SUP',
-    "null": np.nan
+    13: 'SUP'
 }
-fobs['Tab'] = fobs['Factory'].map(tab)
+fobs['Tab'] = fobs['Factory'].map(tab).fillna(np.nan)
 
 decks = {
     '8BD43C9757360E00': 'Mechanized',
