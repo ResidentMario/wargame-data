@@ -61,18 +61,20 @@ i = folders.index(parser.parse_args().version)
 while True:
     previous_version = folders[i - 1]
     version = folders[i]
-    if version in os.listdir(
-        '{0}/{1}'.format(parser.parse_args().wargame, previous_version).replace("\\", "/")
-    ):
-        zz_win = '{0}/{1}/{2}/ZZ_Win.dat'.format(parser.parse_args().wargame,
+    zz_win_1 = '{0}/{1}/ZZ_Win.dat'.format(parser.parse_args().wargame,
+                                                 version).replace("\\", "/")
+    zz_win_2 = '{0}/{1}/{2}/ZZ_Win.dat'.format(parser.parse_args().wargame,
                                                  previous_version,
                                                  version).replace("\\", "/")
+    if os.path.isfile(zz_win_1):
+        zz_win = zz_win_1
+    elif os.path.isfile(zz_win_2):
+        zz_win = zz_win_2
+    if zz_win is not None:
         comm = ['{0}'.format(parser.parse_args().exporter), zz_win, r"pc\localisation\us\localisation\unites.dic"]
         subprocess.run(comm, shell=True)
-        if "ZZ_Win" in os.listdir("."):
-            break
-        else:
-            i -= 1
+    if "ZZ_Win" in os.listdir("."):
+        break
     else:
         i -= 1
 
@@ -80,6 +82,7 @@ while True:
 # The exporter doesn't quite handle exporting this dictionary data correctly, because it doesn't escape the comma ",
 # " character, which appears in weapon descriptions and whatever else. So before we let go we have to even further
 # and clean it up.
+
 locs = pd.read_csv("ZZ_Win/pc/localisation/us/localisation/unites.csv",
                    usecols=[0, 1],
                    header=None,
